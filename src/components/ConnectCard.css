@@ -110,7 +110,13 @@
     width: 80%;
     transform: none; /* This is removed as we don't need to center the container */
     padding: 10px;
-    overflow-y: auto; /* This is added to allow scrolling in the container */
+    overflow-y: hidden; /* This is added to allow scrolling in the container */
     margin: 0 auto; /* This is added to horizontally center the container */
+    flex-direction: column;
+  }
+
+  .connect-icons {
+    flex-direction: column;
+    margin-top: 30px;
   }
 }

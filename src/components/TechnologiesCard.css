@@ -105,4 +105,10 @@
     overflow-y: auto; /* This is added to allow scrolling in the container */
     margin: 0 auto; /* This is added to horizontally center the container */
   }
+
+  .technology-item {
+    width: 60px;
+    height: 60px;
+    font-size: 12px;
+  }
 }

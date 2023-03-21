@@ -11,12 +11,22 @@
 @media (max-width: 768px) {
   .card-container {
     flex-direction: column;
+    top: 150px; /* This is added to align the container to the top of the screen */
+    left: 0; /* This is added to align the container to the left of the screen */
+    transform: none; /* This is modified to remove the centering */
+    padding: 32px; /* This is added to give some padding around the container */
+    overflow: auto; /* This is added to prevent scrolling on the container */
+  }
+
+  .card-container::before {
+    content: '';
+    position: absolute;
+    height: 155%;
+    top: 150px;
     left: 0;
-    width: 90%;
-    transform: none; /* This is removed as we don't need to center the container */
-    padding: 10px;
-    overflow-y: auto; /* This is added to allow scrolling in the container */
-    margin: 0 auto; /* This is added to horizontally center the container */
-    top: 25%;
+    overflow-y: auto;
+    z-index: -1;
+    padding: 32px;
+    box-sizing: border-box;
   }
 }
