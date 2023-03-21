@@ -8,9 +8,11 @@ import ProjectsCard from './components/ProjectsCard';
 import ConnectCard from './components/ConnectCard';
 import TechnologiesCard from './components/TechnologiesCard';
 import FloatingButton from './components/FloatingButton';
+import ShootingStars from './components/ShootingStars';
 import './App.css';
 
 function App() {
+
   return (
     <div style={{ height: '100vh', width: '100vw' }}>
       <Canvas>
@@ -24,6 +26,7 @@ function App() {
           <color attach="background" args={['black']} />
           <Landscape />
           <Stars />
+          <ShootingStars />
         </Suspense>
       </Canvas>
       <NameOverlay />
