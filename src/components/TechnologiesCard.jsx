@@ -1,9 +1,12 @@
 import React from 'react';
 import './TechnologiesCard.css';
+import useTilt from './useTilt';
 
 const TechnologiesCard = ({ title, technologies }) => {
+  const tiltRef = useTilt();
+
   return (
-    <div className="technologies-card">
+    <div ref={tiltRef} className="technologies-card">
       <div className="card-content">
         <h3 className="card-title">{title}</h3>
         <div className="technologies-container">

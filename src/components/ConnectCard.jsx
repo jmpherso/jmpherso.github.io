@@ -3,10 +3,13 @@ import './ConnectCard.css';
 import gitimg from './github.svg';
 import linkedinimg from './linkedin.svg';
 import emailimg from './mail.png';
+import useTilt from './useTilt';
 
 const Card = ({ title, bodyText }) => {
+  const tiltRef = useTilt();
+
   return (
-    <div className="connect-card">
+    <div ref={tiltRef} className="connect-card">
       <div className="card-content">
         <h3 className="card-title">{title}</h3>
         <div className="connect-icons">

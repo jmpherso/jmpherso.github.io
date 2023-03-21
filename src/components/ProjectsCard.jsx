@@ -1,9 +1,12 @@
 import React from 'react';
 import './ProjectsCard.css';
+import useTilt from './useTilt';
 
 const Card = ({ title, bodyText }) => {
+  const tiltRef = useTilt();
+
   return (
-    <div className="projects-card">
+    <div ref={tiltRef} className="projects-card">
       <h3 className="card-title">{title}</h3>
       <div className="projects-container">
         <a href="https://github.com/jmpherso/atelier-storefront" target="_blank" rel="noopener noreferrer">

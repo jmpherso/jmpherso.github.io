@@ -9,6 +9,7 @@ import ConnectCard from './components/ConnectCard';
 import TechnologiesCard from './components/TechnologiesCard';
 import FloatingButton from './components/FloatingButton';
 import ShootingStars from './components/ShootingStars';
+import RotatingSphere from './components/RotatingSphere';
 import './App.css';
 
 function App() {
@@ -27,6 +28,8 @@ function App() {
           <Landscape />
           <Stars />
           <ShootingStars />
+          <RotatingSphere position={[-4, 2, 0]} radius={1} rotationSpeed={0.5} />
+          <RotatingSphere position={[-2, 2.5, 0]} radius={0.3} rotationSpeed={0.3} />
         </Suspense>
       </Canvas>
       <NameOverlay />
