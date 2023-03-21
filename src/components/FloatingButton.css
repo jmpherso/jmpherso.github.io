@@ -1,0 +1,33 @@
+@keyframes wobbleTwo {
+  0%, 100% {
+    transform: translateX(-50%) translateY(5px) translateX(-2px) rotate(-3deg);
+  }
+  50% {
+    transform: translateX(-50%) translateY(-5px) translateX(5px) rotate(1deg);
+  }
+}
+
+.floatingButton {
+  background-color: rgb(0, 0, 0);
+  border-radius: 20px;
+  border: 1px solid white;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 160px;
+  top: 115px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: 'Arial Black', sans-serif;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  z-index: 10;
+  animation: wobbleTwo 4s infinite linear;
+}
+
+.floatingButton:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+}

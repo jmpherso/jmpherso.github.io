@@ -1,0 +1,99 @@
+.projects-card {
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 32px;
+  width: 300px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  transition: background-color 0.3s ease;
+}
+
+.projects-card:hover {
+  background-color: white;
+  transform: scale(1.2);
+  z-index: 2;
+}
+
+.card-content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Add this line to center the title vertically */
+  align-items: center; /* Add this line to center the title horizontally */
+  height: 100%; /* Add this line to make the card-content take the full height of the card */
+}
+
+.projects-card:hover .card-title {
+  color: black;
+  transform: translateY(-500%);
+}
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.project-item {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  color: black;
+  border-radius: 8px;
+  padding: 4px;
+  width: 120px;
+  height: 40px;
+  opacity: 0;
+  transition: opacity 0.3s ease, background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;
+  border: 1px solid black;
+  cursor: pointer; /* Add this line to change the cursor */
+}
+
+.project-item-title {
+  font-weight: bold;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  transition: transform 0.3s ease;
+}
+
+.project-item-tech {
+  font-size: 6px;
+  position: absolute;
+  bottom: 0px;
+  opacity: 0;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  align-items: center;
+  text-align: center;
+}
+
+.project-item:hover {
+  background-color: black;
+  color: white;
+  transform: scale(1.6);
+  z-index: 10;
+}
+
+.project-item:hover .project-item-title {
+  transform: translateY(-100%);
+}
+
+.project-item:hover .project-item-tech {
+  opacity: 1;
+  transform: translateY(-4px);
+}
+
+.projects-card:hover .project-item {
+  opacity: 1;
+}
+

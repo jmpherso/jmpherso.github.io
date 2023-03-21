@@ -1,0 +1,106 @@
+.connect-card {
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 32px;
+  width: 300px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  transition: background-color 0.3s ease;
+}
+
+.connect-card:hover {
+  background-color: white;
+  transform: scale(1.2);
+  z-index: 2;
+}
+
+.connect-icons {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.icon-linkedin,
+.icon-github,
+.icon-email {
+  width: 80px;
+  height: 80px;
+  transition: transform 0.4s ease;
+  padding: 20px;
+}
+
+.connect-card:hover .connect-icons {
+  opacity: 1;
+}
+
+.icon-linkedin:hover {
+  animation: bounce 1s infinite;
+}
+
+.icon-github:hover {
+  animation: bounce 1s infinite;
+}
+
+.icon-email:hover {
+  animation: bounce 1s infinite;
+}
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
+.card-content {
+  position: relative;
+  z-index: 1;
+}
+
+.card-title {
+  position: absolute;
+  color: white;
+  font-size: 24px;
+  margin: 0;
+  transition: all 0.3s ease, transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.connect-card:hover .card-title {
+  color: black;
+  transform: translateY(-500%);
+}
+
+.card-body-text {
+  color: white;
+  font-size: 16px;
+  margin: 0;
+  opacity: 0;
+  transition: all 0.3s ease, transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275) 0.1s;
+}
+
+.connect-card:hover .card-body-text {
+  color: black;
+  opacity: 1;
+  transform: translateY(-70%);
+}

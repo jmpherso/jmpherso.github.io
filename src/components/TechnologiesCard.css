@@ -1,0 +1,99 @@
+.technologies-card {
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 32px;
+  width: 300px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  transition: background-color 0.3s ease;
+}
+
+.technologies-card:hover {
+  background-color: white;
+  transform: scale(1.2);
+  z-index: 2;
+}
+
+
+.card-content {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Add this line to center the title vertically */
+  align-items: center; /* Add this line to center the title horizontally */
+  height: 100%; /* Add this line to make the card-content take the full height of the card */
+}
+
+.technologies-card:hover .card-title {
+  color: black;
+  transform: translateY(-500%);
+}
+
+.technologies-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.technology-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  color: black;
+  border-radius: 50%;
+  padding: 4px;
+  width: 80px;
+  height: 80px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  border: 1px solid black; /* Add this line to give the circles a black border */
+}
+
+.technologies-card:hover .technology-item {
+  opacity: 1;
+}
+
+.technologies-card:hover .technology-item.item-0 {
+  transition-delay: 0.1s;
+}
+
+.technologies-card:hover .technology-item.item-1 {
+  transition-delay: 0.2s;
+}
+
+.technologies-card:hover .technology-item.item-2 {
+  transition-delay: 0.3s;
+}
+
+.technologies-card:hover .technology-item.item-3 {
+  transition-delay: 0.4s;
+}
+
+.technologies-card:hover .technology-item.item-4 {
+  transition-delay: 0.5s;
+}
+
+.technologies-card:hover .technology-item.item-5 {
+  transition-delay: 0.6s;
+}
+
+.technologies-card:hover .technology-item.item-6 {
+  transition-delay: 0.7s;
+}
+
+.technologies-card:hover .technology-item.item-7 {
+  transition-delay: 0.8s;
+}
+
+.technologies-card:hover .technology-item.item-8 {
+  transition-delay: 0.9s;
+}

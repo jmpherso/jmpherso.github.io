@@ -1,0 +1,21 @@
+@keyframes wobble {
+  0%, 100% {
+    transform: translateX(-50%) translateY(-5px) translateX(-2px) rotate(-3deg);
+  }
+  50% {
+    transform: translateX(-50%) translateY(5px) translateX(5px) rotate(1deg);
+  }
+}
+
+.name-overlay {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: 'Arial Black', sans-serif;
+  font-size: 48px;
+  color: black;
+  text-shadow: 1px 1px 0 white, -1px 1px 0 white, 1px -1px 0 white, -1px -1px 0 white;
+  z-index: 10;
+  animation: wobble 4s infinite linear;
+}
