@@ -7,3 +7,16 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+@media (max-width: 768px) {
+  .card-container {
+    flex-direction: column;
+    left: 0;
+    width: 90%;
+    transform: none; /* This is removed as we don't need to center the container */
+    padding: 10px;
+    overflow-y: auto; /* This is added to allow scrolling in the container */
+    margin: 0 auto; /* This is added to horizontally center the container */
+    top: 25%;
+  }
+}
