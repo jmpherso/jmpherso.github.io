@@ -46,7 +46,7 @@ const Landscape = () => {
 
   useFrame(() => {
     if (meshRef.current) {
-      meshRef.current.rotation.z += 0.001;
+      //meshRef.current.rotation.z += 0.001;
       animateLandscape();
     }
   });
@@ -58,13 +58,15 @@ const Landscape = () => {
   });
 
   return (
-    <Plane
-      ref={meshRef}
-      args={[100, 100, 200, 200]}
-      rotation={[-Math.PI / 2, 0, 0]}
-      position={[0, -10, 0]}
-      material={wireframeMaterial}
-    />
+    <>
+      <Plane
+        ref={meshRef}
+        args={[300, 500, 300, 400]}
+        rotation={[-Math.PI / 2, 0, 0]}
+        position={[0, -10, 0]}
+        material={wireframeMaterial}
+      />
+    </>
   );
 };
 

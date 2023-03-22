@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './ConnectCard.css';
 import gitimg from './github.svg';
 import linkedinimg from './linkedin.svg';
@@ -7,11 +7,28 @@ import useTilt from './useTilt';
 
 const Card = ({ title, bodyText }) => {
   const tiltRef = useTilt();
+  const [transformOrigin, setTransformOrigin] = useState('');
+
+  const handleMouseEnter = (e) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    setTransformOrigin(`${x}px ${y}px`);
+  };
+
+  const handleMouseLeave = () => {
+    setTransformOrigin('');
+  };
 
   return (
-    <div ref={tiltRef} className="connect-card">
+    <div
+      ref={tiltRef}
+      className="connect-card"
+      onMouseEnter={handleMouseEnter}
+      onMouseLeave={handleMouseLeave}
+    >
       <div className="card-content">
-        <h3 className="card-title">{title}</h3>
+        <h3 className="card-title" style={{ transformOrigin }}>{title}</h3>
         <div className="connect-icons">
           <a href="https://www.linkedin.com/in/jerry-macpherson/" target="_blank" rel="noopener noreferrer">
             <img src={linkedinimg} alt="LinkedIn" className="icon-linkedin" />
@@ -24,6 +41,7 @@ const Card = ({ title, bodyText }) => {
           </a>
         </div>
       </div>
+      <style>{`.connect-card:hover::before { transform-origin: ${transformOrigin}; transform: scale(1); }`}</style>
     </div>
   );
 };

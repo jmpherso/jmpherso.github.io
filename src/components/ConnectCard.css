@@ -14,6 +14,25 @@
   transition: background-color 0.3s ease;
 }
 
+.connect-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  opacity: 0;
+  pointer-events: none;
+  transform: scale(0);
+  transition: opacity 0.3s, transform 0.3s;
+}
+
+.connect-card:hover::before {
+  opacity: 1;
+  transform: scale(1);
+}
+
 .connect-card:hover {
   background-color: white;
   transform: scale(1.2);

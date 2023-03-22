@@ -1,12 +1,27 @@
-import React from 'react';
+import React, { useState } from 'react';
 import './ProjectsCard.css';
 import useTilt from './useTilt';
 
 const Card = ({ title, bodyText }) => {
   const tiltRef = useTilt();
+  const [transformOrigin, setTransformOrigin] = useState('');
+
+  const handleMouseEnter = (e) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    setTransformOrigin(`${x}px ${y}px`);
+  };
+
+  const handleMouseLeave = () => {
+    setTransformOrigin('');
+  };
 
   return (
-    <div ref={tiltRef} className="projects-card">
+    <div ref={tiltRef} className="projects-card"
+      onMouseEnter={handleMouseEnter}
+      onMouseLeave={handleMouseLeave}
+      >
       <h3 className="card-title">{title}</h3>
       <div className="projects-container">
         <a href="https://github.com/jmpherso/atelier-storefront" target="_blank" rel="noopener noreferrer">
@@ -38,6 +53,7 @@ const Card = ({ title, bodyText }) => {
           <p className="project-item-tech">Personal portfolio page made using React, Threejs, CSS</p>
         </div>
       </div>
+      <style>{`.projects-card:hover::before { transform-origin: ${transformOrigin}; transform: scale(1); }`}</style>
     </div>
   );
 };
