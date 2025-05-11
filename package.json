@@ -4,13 +4,15 @@
   "description": "",
   "type": "module",
   "scripts": {
-    "start": "vite",
     "dev": "vite",
     "build": "vite build",
-    "serve": "vite preview"
+    "serve": "vite preview",
+    "predeploy": "npm run build", // Ensure the site is built before deploying
+    "deploy": "gh-pages -d dist"  // Deploy the 'dist' folder (Vite's build output)
   },
   "license": "MIT",
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "typescript": "^5.7.2",
     "vite": "^6.0.0",
     "vite-plugin-solid": "^2.11.6"
