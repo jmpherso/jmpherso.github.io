@@ -1,0 +1,1827 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-24T21:24:15.280039+00:00",
+  "discovery_at": "2026-11-24T15:01:47.296088+00:00",
+  "target_count": 25,
+  "selection_note": "Rolling shortlist from employer verifications in the last 14 days. Prioritizes realistic junior/mid-level scope and supported work; salary never boosts rank. New to search does not mean newly posted. Availability can change after verification.",
+  "jobs": [
+    {
+      "id": "9cfff531d6f3f174",
+      "company": "Smartsheet",
+      "title": "Software Engineer II - Full Stack (Remote Eligible)",
+      "role": "Full-stack",
+      "employer_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8097667",
+      "application_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8097667",
+      "requisition_id": "8097667",
+      "arrangement": "Remote USA, teleworking from registered US locations. No Illinois exclusion stated; confirm registration and any in-person cadence.",
+      "workplace": "Remote",
+      "salary": "$125,000–$175,000",
+      "salary_scope": "US advertised range; specific location affects offer, no Illinois-specific range supplied",
+      "evidence": [
+        "Ender production Java/TypeScript, REST APIs and relational integrations",
+        "Testing, debugging and CI/CD improvements",
+        "AI-assisted engineering in original resume"
+      ],
+      "transferable": [
+        "Java service work relevant to Kotlin/Java backend team; Kotlin itself not established"
+      ],
+      "gaps": [
+        "Explicit 2+ years cloud experience not established",
+        "Highly scalable/highly available distributed application depth unconfirmed",
+        "Requires 6+ months professional AI use; original resume establishes use but duration not confirmed"
+      ],
+      "responsibilities": [
+        "Mentor junior engineers and coach AI-tool use",
+        "More ownership and architectural discussion than purely junior role",
+        "On-call not specified"
+      ],
+      "first_seen": "2026-10-30",
+      "published_at": null,
+      "source_updated_at": "2026-10-29T08:48:46-05:00",
+      "employer_verified_at": "2026-11-20T15:07:25.461985+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Public web discovery",
+          "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8097667?gh_src=remote-work.app"
+        },
+        {
+          "name": "Jobicy",
+          "url": "https://jobicy.com/jobs/163358-software-engineer-ii-full-stack-remote-eligible"
+        }
+      ]
+    },
+    {
+      "id": "d1691d65fc0abdd4",
+      "company": "Rula",
+      "title": "Software Engineer II",
+      "role": "Software engineering",
+      "employer_url": "https://jobs.ashbyhq.com/rula/93215a80-a855-4b86-8e5c-e4ee29d64bdf",
+      "application_url": "https://jobs.ashbyhq.com/rula/93215a80-a855-4b86-8e5c-e4ee29d64bdf",
+      "requisition_id": "93215a80-a855-4b86-8e5c-e4ee29d64bdf",
+      "arrangement": "100% remote United States, currently not hiring Hawaii. Illinois is not excluded; no regular office requirement stated. Quarterly team gatherings possible.",
+      "workplace": "Remote",
+      "salary": "$140,000–$171,000",
+      "salary_scope": "Employer compensation panel explicitly says base salary with no bonus, plus equity; pay transparent across US.",
+      "evidence": [
+        "Ender production Java APIs, relational data modeling and integration debugging support backend service work.",
+        "API tracing, automated testing and CI/CD work are relevant to service reliability and quality guardrails.",
+        "AI-assisted engineering use is established; limited LLM product integration is additional context, not evidence of distributed architecture ownership.",
+        "Saved submitted resume lists Carleton University Bachelor of Engineering, Aerospace Engineering (2011), meeting employer degree in CS or another engineering discipline. Source: resume-quality/airbnb-submitted-audit/resume-pypdf.txt."
+      ],
+      "transferable": [
+        "Java production backend fundamentals transfer to Node.js; professional Node.js depth is not established."
+      ],
+      "gaps": [
+        "Actual employer minimum is 3+ years, versus approximately 2 years 9 months at Ender; Built In 1.5+ claim is not authoritative.",
+        "High-throughput distributed patient-data platform, fault tolerance and multi-tenant scale experience need evidence.",
+        "Node.js and Kafka are preferred, not established production skills. On-call experience preferred; actual rotation and support load unclear."
+      ],
+      "responsibilities": [
+        "Patient Services core backend data systems; technical-strategy contributions and post-launch maintenance.",
+        "High reliability/accuracy and scale; not a purely junior maintenance position.",
+        "No formal management or mentoring others stated; on-call experience preferred."
+      ],
+      "first_seen": "2026-11-20",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-20T15:07:25.461985+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Built In Chicago engineering",
+          "url": "https://www.builtinchicago.org/jobs/remote/dev-engineering"
+        },
+        {
+          "name": "Wellfound",
+          "url": "https://wellfound.com/company/rula/jobs"
+        }
+      ]
+    },
+    {
+      "id": "478f6517cca41d77",
+      "company": "GHX",
+      "title": "Software Engineer II - Java, Spring, AWS, CI/CD",
+      "role": "Software engineering",
+      "employer_url": "https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4742669005",
+      "application_url": "https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4742669005",
+      "requisition_id": "4742669005",
+      "arrangement": "Office Location or Remote - USA. Illinois not excluded; exact state eligibility and any remote travel/office expectations not detailed.",
+      "workplace": "Remote",
+      "salary": "$109,000–$121,000",
+      "salary_scope": "Employer posted annual US base salary; benefits/equity/bonus separate where applicable.",
+      "evidence": [
+        "2-3 year requirement matches confirmed February 2024 Ender start, approximately 2 years 9 months.",
+        "Production Java APIs, relational data modeling, diagnostic tooling, automated tests and CI/CD support moderate-scope backend delivery.",
+        "QA/product collaboration and API tracing provide concrete examples of improving document/bug investigation workflows."
+      ],
+      "transferable": [],
+      "gaps": [
+        "Spring, Maven, JUnit 5, Mockito and professional AWS depth need confirmation.",
+        "Rules engines, event-driven pub/sub, EventBus and MongoDB work are not established. LLM document processing is not evidence of rules-engine experience.",
+        "Illinois employment eligibility and any in-person expectations need confirmation."
+      ],
+      "responsibilities": [
+        "Well-defined moderate features under senior-engineer guidance; limited-scope independent tasks.",
+        "Document-event rules, notification routing, feature flags, monolith decoupling and Java migrations.",
+        "No formal management, mentoring others, on-call or travel stated."
+      ],
+      "first_seen": "2026-11-19",
+      "published_at": "2026-10-16T19:59:06-04:00",
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-19T15:13:48.573304+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Public web search - direct employer",
+          "url": "https://job-boards.greenhouse.io/globalhealthcareexchangeinc/jobs/4742669005"
+        }
+      ]
+    },
+    {
+      "id": "a694f0807dc0ed50",
+      "company": "Toast",
+      "title": "Software Engineer II, Backend",
+      "role": "Backend",
+      "employer_url": "https://careers.toasttab.com/jobs/software-engineer-ii-backend-remote-united-states?gh_jid=8334794",
+      "application_url": "https://careers.toasttab.com/jobs/software-engineer-ii-backend-remote-united-states?gh_jid=8334794",
+      "requisition_id": "R15475",
+      "arrangement": "Remote United States; must work East Coast hours. Illinois not excluded, but exact state hiring eligibility needs confirmation. U.S. policy expects office attendance twice weekly within 25 miles of a Toast office or twice monthly within 25-50 miles. Listed U.S. offices are NYC, Boston, Omaha and San Francisco; no Chicago office listed. Confirm ZIP-specific treatment.",
+      "workplace": "Remote",
+      "salary": "$115,000–$184,000",
+      "salary_scope": "Zone B includes Chicago as an example city; exact home ZIP zone and hiring eligibility must be confirmed by recruiter.",
+      "evidence": [
+        "Production Java services, REST APIs and relational database integrations at Ender since February 2024.",
+        "API tracing and persisted diagnostics support integration debugging and production investigation.",
+        "Automated tests, CI/CD improvements, product collaboration and code reviews match feature delivery and quality duties."
+      ],
+      "transferable": [
+        "Java backend experience is relevant to Kotlin; employer explicitly mentions Java and willingness to learn Kotlin in nice-to-haves. This does not establish Kotlin proficiency."
+      ],
+      "gaps": [
+        "Requirements ask for 2+ years building Kotlin backend services and Kotlin frameworks, while nice-to-haves allow Java and learning Kotlin. Confirm whether Java experience satisfies the actual screen.",
+        "Production containerization, microservices architecture, DynamoDB and API lifecycle/versioning depth are not established.",
+        "Illinois hiring, exact geographic pay zone and any office/travel requirements need confirmation.",
+        "East Coast working hours required; confirm willingness if proceeding."
+      ],
+      "responsibilities": [
+        "Payments infrastructure is business-critical.",
+        "Own feature delivery, automated tests and rollout monitoring.",
+        "Works with experienced engineers on design and code review; no management duty stated.",
+        "Formal on-call, mentoring and travel not specified."
+      ],
+      "first_seen": "2026-11-17",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-17T15:01:02.893878+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Built In Chicago",
+          "url": "https://www.builtinchicago.org/job/software-engineer-ii-backend/12049303"
+        }
+      ]
+    },
+    {
+      "id": "2e31ef6f03bdefe2",
+      "company": "PaceMate",
+      "title": "Associate Application Engineer – AI & Data",
+      "role": "Software engineering",
+      "employer_url": "https://pacemate.applytojob.com/apply/NIKzas1MSv/Associate-Application-Engineer",
+      "application_url": "https://himalayas.app/companies/pacemate/jobs/associate-application-engineer?utm_source=api",
+      "requisition_id": "NIKzas1MSv",
+      "arrangement": "100% remote anywhere in contiguousUnitedStates, explicitly includesIllinois. Dedicated home office and reliable internet required. Occasional limited travel may be required; frequency unspecified. Work must remain in contiguousUS, other work locations require IT approval.",
+      "workplace": "Remote",
+      "salary": "Salary needs clarification",
+      "salary_scope": "Confirm geographic applicability and compensation basis with employer.",
+      "evidence": [
+        "1–3years in software/automation/data requested, including bootcamp and project experience; EnderFebruary2024–Present fits",
+        "ProductionTypeScript/JavaScript and relationaldatabase/APIintegration experience match familiar stack requirements",
+        "Ender API tracing/debugging and relational test-data tools directly connect to internal applications, automation, validation and observability",
+        "Tests and CI/CD improvements match development/support and preferred CI/CD experience"
+      ],
+      "transferable": [
+        "Java production backend skills transfer to new application stack; no productionPython/Vue/AWS claim"
+      ],
+      "gaps": [
+        "Specific Vue/Python/databaseplatform depth not established; familiarity with any listed TypeScript/JavaScript/SQL tools accepted",
+        "AWS/EKS/Kubernetes/Databricks/Snowflake/HL7/FHIR are nice-to-haves or pluses, unconfirmed",
+        "AI-enabled workflow implementation not established; curiosity explicitly acceptable",
+        "Dedicated office/internet and travel availability need confirmation if applying"
+      ],
+      "responsibilities": [
+        "Junior growth role with SeniorDirectorAI/BI partnership",
+        "Broad internal application/data/automation support and problem ownership; no explicit mentoring or management requirement",
+        "Occasional limited travel; no formal on-call stated, clarify support expectations"
+      ],
+      "first_seen": "2026-11-15",
+      "published_at": null,
+      "source_updated_at": 1794739472,
+      "employer_verified_at": "2026-11-15T15:03:49.945109+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Himalayas",
+          "url": "https://himalayas.app/companies/pacemate/jobs/associate-application-engineer"
+        }
+      ]
+    },
+    {
+      "id": "e199d2fed87f43d1",
+      "company": "Supernova Technology",
+      "title": "Junior Software Engineer",
+      "role": "Software engineering",
+      "employer_url": "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502",
+      "application_url": "https://ats.rippling.com/supernova-technology/jobs/7ea1a05c-b0e6-4f1a-b53c-193ce3d91502",
+      "requisition_id": "7ea1a05c-b0e6-4f1a-b53c-193ce3d91502",
+      "arrangement": "Chicago. BuiltIn employer profile says hybrid with at least4office days/week; primary exact role does not specify cadence. Confirm current role-specific attendance. Lower preference than remote/two-dayhybrid.",
+      "workplace": "Chicago hybrid",
+      "salary": "$80,000–$100,000",
+      "salary_scope": "Employer annual compensation range, Chicago. Exact base/bonus split not explicitly stated; source labels annual salary.",
+      "evidence": [
+        "Explicit entry-level learning/mentorship scope, not fixedyears or leadership prerequisite",
+        "ProductionJava/JavaScript, debugging, RESTbackend, tests/CI/CD and release support atEnder directly relevant",
+        "Engineeringbachelor plus actual productionexperience support relatedtechnicaldegree/equivalentexperience alternative"
+      ],
+      "transferable": [],
+      "gaps": [
+        "Hands-on SpringFramework/SpringBoot requested; exact productiondepth not established",
+        "Must start within1month of offer acceptance; availability unconfirmed",
+        "Four-day office cadence from company profile needs role-specific confirmation; weaker preference",
+        "At80k lowend below approximate85kjunior preference; salarywithinupperrange would fit"
+      ],
+      "responsibilities": [
+        "Mentorship and learning the SDLC; eventual techlead aspiration is futuregrowth, not currentlead requirement",
+        "Technicalsupport, high-priorityrequests and release/deployment work; no explicitoncall or travel stated"
+      ],
+      "first_seen": "2026-11-15",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-15T15:03:49.945109+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Built In Chicago",
+          "url": "https://www.builtinchicago.org/job/junior-software-engineer/9318299"
+        }
+      ]
+    },
+    {
+      "id": "320a41220d39d16b",
+      "company": "Affirm",
+      "title": "Software Engineer I, Backend (Continuous Delivery)",
+      "role": "Developer tools",
+      "employer_url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+      "application_url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+      "requisition_id": "8181183003",
+      "arrangement": "RemoteUS; no Illinois exclusion, all-other-USstates range. Occasional officework possible; allnewhires invited to in-person onboarding. Exact travel frequency unknown.",
+      "workplace": "Remote",
+      "salary": "$115,000–$165,000",
+      "salary_scope": "All other US states includingIllinois. CA/WA/NY/NJ/CT130–180k does not apply.",
+      "evidence": [
+        "Ender CI/CD improvements, automated tests and reducing redundantprocessing connect directly to DeveloperProductivity/ContinuousDelivery charter",
+        "API tracing/debugging and relational test-data tooling demonstrate practical tools for otherengineers",
+        "Java services/REST integration and multi-component features support backend engineering and debugging",
+        "Exact role has team-supported tasks and growth activities, matching preferred responsibility and collaborative learning"
+      ],
+      "transferable": [
+        "Java backend/API work transfers to another JVM language or Python; does not establish productionKotlin/Python expertise"
+      ],
+      "gaps": [
+        "Employer explicitly asks experience usingPythonorKotlin; productiondepthnotestablished",
+        "AWS/Kubernetes/distributed-systems scale experience unconfirmed; MySQLplainoriginalskill",
+        "No particular releaseorchestration/rollout platform experience established"
+      ],
+      "responsibilities": [
+        "EngineerI supported by team, no yearsminimum stated",
+        "Shared delivery platforms require reliability and downtime prevention",
+        "No explicit formal on-call, mentoring or leadership obligation in this exact posting; clarify any operationalrotation"
+      ],
+      "first_seen": "2026-11-13",
+      "published_at": "2026-11-12T17:15:54-06:00",
+      "source_updated_at": "2026-11-12T17:15:54-06:00",
+      "employer_verified_at": "2026-11-13T15:10:48.876903+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Affirm direct Greenhouse",
+          "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003"
+        }
+      ]
+    },
+    {
+      "id": "d9b948865d6f9a26",
+      "company": "Affirm",
+      "title": "Software Engineer II - CIAM",
+      "role": "Software engineering",
+      "employer_url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
+      "application_url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003",
+      "requisition_id": "8040751003",
+      "arrangement": "Remote US, most roles within country. Illinois falls in employer all-other-US-states pay band; no state exclusion stated. Occasional office attendance possible, all new hires invited to in-person onboarding. Exact travel frequency unspecified.",
+      "workplace": "Remote",
+      "salary": "$146,000–$206,000",
+      "salary_scope": "All other US states includingIllinois; CA/WA/NY/NJ/CT165–225k range does not apply",
+      "evidence": [
+        "Ender Java services and REST/database integration match backend fundamentals and similar-language criterion",
+        "API tracing/debugging, tests and code reviews match reliability and scoped delivery duties",
+        "Employer explicitly accepts similar-language experience and has no fixed experience minimum; prior CIAM knowledge not required"
+      ],
+      "transferable": [
+        "Java backend work transfers to Python/Kotlin or similar-language environment; no production proficiency invented"
+      ],
+      "gaps": [
+        "Production Python/Kotlin not established; Java is transferable rather than proof of either",
+        "Interest in authentication should be established before application; Okta/Auth0/ForgeRock expertise not claimed"
+      ],
+      "responsibilities": [
+        "Scoped features with mentorship and team-supported deployment",
+        "Security-sensitive authentication work; operational rigor expected",
+        "No explicit formal on-call, management or mentoring-juniors obligation in this exact posting; confirm operational rotation"
+      ],
+      "first_seen": "2026-11-12",
+      "published_at": "2026-10-27T08:29:57-05:00",
+      "source_updated_at": "2026-10-30T16:15:12-05:00",
+      "employer_verified_at": "2026-11-12T15:07:53.044621+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Affirm direct Greenhouse",
+          "url": "https://job-boards.greenhouse.io/affirm/jobs/8040751003"
+        }
+      ]
+    },
+    {
+      "id": "6937f63765523c07",
+      "company": "Affirm",
+      "title": "Software Engineer II, Fullstack (Ads Platform)",
+      "role": "Full-stack",
+      "employer_url": "https://job-boards.greenhouse.io/affirm/jobs/8016866003",
+      "application_url": "https://job-boards.greenhouse.io/affirm/jobs/8016866003",
+      "requisition_id": "8016866003",
+      "arrangement": "Remote US, most roles within country. Illinois falls in employer all-other-US-states pay band; no state exclusion stated. Occasional office attendance possible, all new hires invited to in-person onboarding. Exact travel frequency unspecified.",
+      "workplace": "Remote",
+      "salary": "$146,000–$206,000",
+      "salary_scope": "All other US states includingIllinois; CA/WA/NY/NJ/CT165–225k range does not apply",
+      "evidence": [
+        "Approximately2years9months at Ender exceeds1.5year requirement",
+        "Production React features directly match shipping declarative web UI",
+        "Java REST/API integration, tracing, tests and code reviews connect to multi-component features and debugging"
+      ],
+      "transferable": [
+        "Java backend work transfers to Python/Kotlin or similar-language environment; no production proficiency invented"
+      ],
+      "gaps": [
+        "Production Python/Kotlin and APIs at Affirm scale not established; Java backend skills transfer",
+        "Ads/merchant platform knowledge not established but not explicitly a prerequisite"
+      ],
+      "responsibilities": [
+        "Tech lead/manager support for project decomposition and phased delivery",
+        "Explicit on-call/availability support and metrics",
+        "Participation in hiring/interview process; no people management requirement"
+      ],
+      "first_seen": "2026-11-12",
+      "published_at": "2026-10-09T14:25:16-05:00",
+      "source_updated_at": "2026-10-30T16:15:12-05:00",
+      "employer_verified_at": "2026-11-12T15:07:53.044621+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Affirm direct Greenhouse",
+          "url": "https://job-boards.greenhouse.io/affirm/jobs/8016866003"
+        }
+      ]
+    },
+    {
+      "id": "fccd57034e21503e",
+      "company": "Smartsheet",
+      "title": "Software Engineer II, AI Experience (Remote Eligible)",
+      "role": "Software engineering",
+      "employer_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232",
+      "application_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232",
+      "requisition_id": "8412232",
+      "arrangement": "Remote USA; telework from registered US locations, no Illinois exclusion stated. Confirm state registration during application.",
+      "workplace": "Remote",
+      "salary": "$125,000–$175,000",
+      "salary_scope": "Annual USD base applicable to Illinois; individual offer depends on experience/location.",
+      "evidence": [
+        "2-4years and TypeScript/React directly align with Ender tenure/production stack.",
+        "User-facing full-stack features, APIs, diagnostics/tracing and QA/product collaboration connect directly.",
+        "Confirmed LLM chat/document integration is relevant but duration and methods are unknown."
+      ],
+      "transferable": [
+        "Production Java backend/API experience transfers to other backend languages; Python/Node professional proficiency is not established."
+      ],
+      "gaps": [
+        "Requires1+yearproductionLLM features; duration and individual implementation specifics unconfirmed.",
+        "Eval scorers/golden datasets, MCP/tools/skills and agent failure design required but not evidenced.",
+        "Databricks/equivalent and production agent observability depth unknown."
+      ],
+      "responsibilities": [
+        "Own significant feature from design to production; ambiguous asks and quality/cost/security decisions.",
+        "On-call first90days; shared production incidents, no explicit management/mentoring."
+      ],
+      "first_seen": "2026-11-24",
+      "published_at": "2026-11-23T14:38:33-05:00",
+      "source_updated_at": "2026-11-23T14:38:33-05:00",
+      "employer_verified_at": "2026-11-24T15:08:12.941708+00:00",
+      "new_to_search": true,
+      "fresh_72h": true,
+      "sources": [
+        {
+          "name": "Smartsheet direct Greenhouse",
+          "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232"
+        }
+      ]
+    },
+    {
+      "id": "c53211207d7b4a2b",
+      "company": "Oddball",
+      "title": "Integration Engineer",
+      "role": "Developer tools",
+      "employer_url": "https://job-boards.greenhouse.io/oddball/jobs/8213812003",
+      "application_url": "https://job-boards.greenhouse.io/oddball/jobs/8213812003",
+      "requisition_id": "8213812003",
+      "arrangement": "Fully remote US. No Illinois exclusion stated; state employment eligibility and operational cadence to confirm.",
+      "workplace": "Remote",
+      "salary": "$100,000–$130,000",
+      "salary_scope": "Employer United States wage range; exact base/wage basis and location-specific offer to confirm.",
+      "evidence": [
+        "Ender Java services, REST APIs and database integration directly match required backend integration work.",
+        "API tracing/debugging and QA/product collaboration fit interoperability diagnosis, testing and cutover.",
+        "Automated testing, code reviews, Agile and AI-assisted development match listed working practices.",
+        "US citizenship and Bachelor of Engineering confirmed."
+      ],
+      "transferable": [
+        "Integration and relational-data experience transfers to Medicare legacy systems; no healthcare or mainframe expertise assumed."
+      ],
+      "gaps": [
+        "Contract award is required before this position proceeds.",
+        "Exact federal background investigation/clearance requirements and Illinois eligibility need confirmation; citizenship does not establish clearance.",
+        "AWS is a plus; production cloud depth remains unconfirmed. Healthcare/claims experience not established.",
+        "Compensation basis, on-call and cutover support hours unspecified."
+      ],
+      "responsibilities": [
+        "Individual contributor works with architects, QA and data engineers; no fixed years minimum, mentoring or management stated.",
+        "Legacy claims integration and cutover troubleshooting; contract-award contingency."
+      ],
+      "first_seen": "2026-11-22",
+      "published_at": "2026-11-21T19:53:59-05:00",
+      "source_updated_at": "2026-11-21T19:53:59-05:00",
+      "employer_verified_at": "2026-11-22T15:07:32.078643+00:00",
+      "new_to_search": false,
+      "fresh_72h": true,
+      "sources": [
+        {
+          "name": "Oddball direct Greenhouse",
+          "url": "https://job-boards.greenhouse.io/oddball/jobs/8213812003"
+        }
+      ]
+    },
+    {
+      "id": "e50e019a5b903d90",
+      "company": "Relativity",
+      "title": "Software Engineer - Enrichment",
+      "role": "Software engineering",
+      "employer_url": "https://kcura.wd1.myworkdayjobs.com/en-US/external_career_site/job/Illinois/Software-Engineer_26-0512",
+      "application_url": "https://kcura.wd1.myworkdayjobs.com/en-US/external_career_site/job/Illinois/Software-Engineer_26-0512",
+      "requisition_id": "26-0512",
+      "arrangement": "Illinois explicitly listed; employer labels Hybrid/Remote. Exact remote option and required office days unspecified.",
+      "workplace": "Remote",
+      "salary": "Salary needs clarification",
+      "salary_scope": "Confirm geographic applicability and compensation basis with employer.",
+      "evidence": [
+        "Production Java object-oriented services and REST APIs meet explicitly accepted Java-or-similar language option.",
+        "React/TypeScript plus backend/database integrations support working across application layers.",
+        "Ender unit/end-to-end tests, CI/CD and debugging relate to quality/process improvement and team delivery.",
+        "User-confirmed document-processing LLM integration provides limited domain context; not proof of high-volume extraction or enterprise data engineering."
+      ],
+      "transferable": [
+        "Java is explicitly accepted; transition to C#/Azure environment would require learning.",
+        "Engineering degree and current software work support related-experience education alternative."
+      ],
+      "gaps": [
+        "Azure DevOps, Azure Functions/Service Bus and serverless experience not established; listed as preferred.",
+        "Massive-scale document processing/distributed systems not established.",
+        "Hybrid/Remote label does not establish fully remote eligibility or office cadence.",
+        "Salary offer may be below user preference at bottom of range; confirm offer and scope rather than reject full range."
+      ],
+      "responsibilities": [
+        "Reports to engineering manager; team delivery, pair programming and quality focus.",
+        "No fixed years minimum, formal management, mentoring obligation, travel or on-call stated."
+      ],
+      "first_seen": "2026-11-22",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-22T15:07:32.078643+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Built In Chicago entry-level",
+          "url": "https://www.builtinchicago.org/jobs/dev-engineering/entry-level"
+        },
+        {
+          "name": "Fresh Job primary-link discovery",
+          "url": "https://freshjob.today/jobs/3549901e3820cb79/"
+        }
+      ]
+    },
+    {
+      "id": "2f8ffb11f6ce59bb",
+      "company": "Bayesian Health",
+      "title": "Software Engineer, Application Integration",
+      "role": "Developer tools",
+      "employer_url": "https://jobs.ashbyhq.com/bayesianhealth/f3d96335-cfb0-4bc5-9109-5925516da5d1",
+      "application_url": "https://jobicy.com/jobs/153596-software-engineer-application-integration",
+      "requisition_id": "f3d96335-cfb0-4bc5-9109-5925516da5d1",
+      "arrangement": "Remote - US Only. Illinois not excluded; exact state eligibility, travel and any customer-site expectations unspecified.",
+      "workplace": "Remote",
+      "salary": "Salary needs clarification",
+      "salary_scope": "Confirm geographic applicability and compensation basis with employer.",
+      "evidence": [
+        "Ender React/TypeScript, Java REST/database integrations and QA/product collaboration match full-stack integration work.",
+        "API tracing tool built to capture diagnostics for QA/product bug reports is a concrete match for tracing integration issues from interface through API/data.",
+        "Relational test-data generator, automated tests and CI/CD work support integration testing and useful automation.",
+        "Some Ender LLM product integration in customer chat/document processing is relevant context for LLM-assisted integration tooling; details remain limited."
+      ],
+      "transferable": [
+        "General API integration and tracing transfer to clinical workflows; EHR/SMART on FHIR/CDS Hooks/Epic experience is not established."
+      ],
+      "gaps": [
+        "3+ years required versus approximately 2 years 9 months confirmed.",
+        "Production cloud depth, exact end-to-end testing experience and enterprise customer go-live ownership need clarification.",
+        "Salary, Illinois employment eligibility, travel and support/on-call load not specified."
+      ],
+      "responsibilities": [
+        "Own the technical workstream with health-system customers; implementation lead handles relationship/project management.",
+        "Urgent clinician-facing diagnosis and go-live technical point of contact; substantial correctness and support responsibility.",
+        "On-call/support rotation experience preferred. No management or mentoring others stated."
+      ],
+      "first_seen": "2026-11-20",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-20T15:07:25.461985+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Jobicy",
+          "url": "https://jobicy.com/jobs/153596-software-engineer-application-integration"
+        }
+      ]
+    },
+    {
+      "id": "84922a1eba66100c",
+      "company": "Fleetio",
+      "title": "Software Engineer, Growth",
+      "role": "Software engineering",
+      "employer_url": "https://job-boards.greenhouse.io/fleetio/jobs/4823689007",
+      "application_url": "https://jobicy.com/jobs/155861-software-engineer-growth",
+      "requisition_id": "4823689007",
+      "arrangement": "Remote USA, Canada or Mexico. Illinois not excluded; precise state eligibility and travel/cadence unspecified.",
+      "workplace": "Remote",
+      "salary": "Salary needs clarification",
+      "salary_scope": "Confirm geographic applicability and compensation basis with employer.",
+      "evidence": [
+        "Production React/TypeScript, Java backend work, reusable interfaces and relational SQL match full-stack product development.",
+        "API tracing and test-data tooling demonstrate practical user-problem discovery, testing and delivery with QA/product."
+      ],
+      "transferable": [],
+      "gaps": [
+        "Requires 3+ professional years; confirmed tenure is about 2 years 9 months, not rounded up.",
+        "A/B testing, product experimentation, feature flags and Amplitude/Mixpanel/Heap experience not established.",
+        "Rails is a nice-to-have, not established. Salary and Illinois eligibility need clarification."
+      ],
+      "responsibilities": [
+        "Growth team improving onboarding, adoption and engagement with product, design and data partners.",
+        "Reports to engineering manager; ongoing learning and feedback emphasized.",
+        "No explicit on-call, management, mentoring others or travel stated."
+      ],
+      "first_seen": "2026-11-19",
+      "published_at": "2025-08-08T15:14:42-04:00",
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-19T15:13:48.573304+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Jobicy",
+          "url": "https://jobicy.com/jobs/155861-software-engineer-growth"
+        }
+      ]
+    },
+    {
+      "id": "6f11ee31589861af",
+      "company": "Talkiatry",
+      "title": "Software Engineer DOLCE",
+      "role": "Software engineering",
+      "employer_url": "https://jobs.ashbyhq.com/talkiatry/4343b2d6-b89f-4534-b208-515963523015",
+      "application_url": "https://jobs.ashbyhq.com/talkiatry/4343b2d6-b89f-4534-b208-515963523015/application",
+      "requisition_id": "4343b2d6-b89f-4534-b208-515963523015",
+      "arrangement": "Full-time remote; a16z employer portfolio listing specifies United States. Exact employer posting says Remote with no state exclusions. Illinois eligibility and any travel/office obligations need confirmation.",
+      "workplace": "Remote",
+      "salary": "$130,000–$145,000",
+      "salary_scope": "Employer compensation range, US remote. Annual cadence corroborated by Built In; employer page does not spell out period or Illinois adjustment.",
+      "evidence": [
+        "1–3+ years requested; Ender February 2024–Present fits the experience range",
+        "Production React/TypeScript features and reusable UI match frontend/internal tools",
+        "Java REST services and database integrations transfer to patient-data synchronization and third-party integrations",
+        "API tracing tool solved QA/product bug-reporting problems; directly relevant to useful internal tooling",
+        "Testing, CI/CD, code/design reviews and cross-functional product work"
+      ],
+      "transferable": [
+        "Java production backend experience transfers to TypeScript services; original Node/Express skills are listed but professional backend depth is unconfirmed"
+      ],
+      "gaps": [
+        "Explicit TypeScript backend services experience in Node.js/Express required; production evidence currently Java",
+        "AWS and NestJS depth unconfirmed; NestJS is nice to have",
+        "Healthcare/regulated industry experience is nice to have, not established",
+        "Illinois hiring eligibility and compensation localization not explicit"
+      ],
+      "responsibilities": [
+        "Defines technical specifications and architecture, co-owns systems supporting patient care",
+        "Mentoring teammates explicitly requested despite 1–3+ years band",
+        "Testing and postmortems; formal on-call rotation not stated, clarify"
+      ],
+      "first_seen": "2026-11-14",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-14T15:05:12.926613+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "TypeScript Jobs",
+          "url": "https://typescriptjobs.net/jobs/software-engineer-dolce-at-talkiatry"
+        },
+        {
+          "name": "a16z portfolio jobs",
+          "url": "https://jobs.a16z.com/jobs/talkiatry"
+        }
+      ]
+    },
+    {
+      "id": "f214fa7811e67bf4",
+      "company": "Oddball",
+      "title": "Front End Engineer",
+      "role": "Frontend",
+      "employer_url": "https://job-boards.greenhouse.io/oddball/jobs/8200470003",
+      "application_url": "https://jobicy.com/jobs/161780-front-end-engineer",
+      "requisition_id": "8200470003",
+      "arrangement": "FullyremoteUS, workauthorizationrequired. NoIllinoisexclusion. Certaincontracts may requirecitizenship/backgroundinvestigation/clearance; exactrole clearancelevel notspecified. Noofficecadence/travelstated.",
+      "workplace": "Remote",
+      "salary": "$100,000–$130,000",
+      "salary_scope": "Employer UnitedStates wage range; actualoffer depends jobcategory/location/skilllevel",
+      "evidence": [
+        "ProductionReact/TypeScript reusableUI architecture connects directly to sharedVAcomponent/form libraries",
+        "Unit/endtoendtests and code/designreview connect to componentquality and documentation",
+        "QA/product bugtracing and featurework support componentbugfixes and requests fromotherteams",
+        "AIassisteddevelopment fromoriginalresume supports advertisedCopilot/ClaudeCodeworkingstyle; userBachelorofEngineeringmeetsdegreelevel"
+      ],
+      "transferable": [
+        "ReusableReactUI experience transfers to formal design-system work, but doesnotprove USWDS/Stencil/Storybook use"
+      ],
+      "gaps": [
+        "WCAG/ARIA/Section508 accessibilityunderstanding is required and notestablished",
+        "Figma, Storybook, webcomponents/Stencil andUSWDSdepthunconfirmed",
+        "Noexistingsecurityclearanceestablished; citizenship alone doesnotguarantee clearance/backgroundoutcome"
+      ],
+      "responsibilities": [
+        "CollaborativeAgile designer/engineerteam, componentmaintenance/testing/documentation",
+        "Federalcontracteligibility/backgroundrequirements needclarification",
+        "Noexplicitoncall, leadership, mentoringortravelobligation"
+      ],
+      "first_seen": "2026-11-13",
+      "published_at": "2026-11-10T09:55:17-06:00",
+      "source_updated_at": "2026-11-10T09:55:17-06:00",
+      "employer_verified_at": "2026-11-13T15:10:48.876903+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Jobicy",
+          "url": "https://jobicy.com/jobs/161780-front-end-engineer"
+        },
+        {
+          "name": "Employer Greenhouse",
+          "url": "https://job-boards.greenhouse.io/oddball/jobs/8200470003"
+        }
+      ]
+    },
+    {
+      "id": "b58260e85ef61b88",
+      "company": "McKesson / Ontada Genospace",
+      "title": "Full Stack Software Engineer",
+      "role": "Full-stack",
+      "employer_url": "https://careers.mckesson.com/en/job/ohio/full-stack-software-engineer/733/98133520720",
+      "application_url": "https://himalayas.app/companies/mckesson/jobs/full-stack-software-engineer?utm_source=api",
+      "requisition_id": "JR0150756",
+      "arrangement": "EmployerexplicitRemote andstructureddataTELECOMMUTEwithapplicantcountryUnitedStates. NamedlocationsincludeWorkatHomeOhio,Atlanta,Columbus,Irving,Richmond,TheWoodlands. Illinoisnotexplicitlylisted; confirmstateeligibility beforeapplication. Noofficecadence/travelstated.",
+      "workplace": "Remote",
+      "salary": "$83,400–$139,000",
+      "salary_scope": "Employerbase range; geographicallylocalized, exactIllinoisoffer unspecified. No universal85kfloorapplied.",
+      "evidence": [
+        "Approximately2years9monthsEnderexperience meets2+yearsminimum",
+        "Java/REST/databaseintegrations andReactTypeScriptfullstackfeatures meet frontend/backend/database requirements",
+        "Tests, CI/CD, code/designreview andQA/productcollaborationmatch smallteam design/build/test/release/supportscope",
+        "AerospaceBachelorofEngineering satisfiesengineering/STEMdegree alternative"
+      ],
+      "transferable": [
+        "Reactcomponent experience transfers toVue frontend; exactstackfamiliarity is preferred ratherthanmandatory",
+        "Relationaldata/Java work supports learningGroovy/Grails/Micronaut/Kafka andMongoDB/Elasticsearch; noexpertiseclaimed"
+      ],
+      "gaps": [
+        "Vue,Groovy,Grails,Micronaut,Kafka,MongoDB andElasticsearchdepthnotestablished; employer marksstackfamiliarityhelpfulnotrequired",
+        "Illinoisremoteeligibility needsconfirmationgiven namedstateworklocations",
+        "Salaryoffer and exactcompensationbyIllinoisunknown; clinical/genomicsdomainexperiencepreferrednotrequired"
+      ],
+      "responsibilities": [
+        "Smallcollaborativeteam, code/designfeedback andengineeringprocessimprovements",
+        "Fullfeaturecycleincludingrelease/support; noexplicitoncall,leadershipormentoringobligation",
+        "Healthcarecontext, noadditionalcomplianceexpertiseclaimed"
+      ],
+      "first_seen": "2026-11-13",
+      "published_at": "2026-11-11",
+      "source_updated_at": 1794567475,
+      "employer_verified_at": "2026-11-13T15:10:48.876903+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Himalayas",
+          "url": "https://himalayas.app/companies/mckesson/jobs/full-stack-software-engineer"
+        },
+        {
+          "name": "Employer careers",
+          "url": "https://careers.mckesson.com/en/job/ohio/full-stack-software-engineer/733/98133520720"
+        }
+      ]
+    },
+    {
+      "id": "54bdf6fc89253078",
+      "company": "1Password",
+      "title": "Developer, Enterprise Tenants and Policies",
+      "role": "Developer tools",
+      "employer_url": "https://jobs.ashbyhq.com/1password/b9ff2259-517c-4ec2-b92f-646be8bf12b6",
+      "application_url": "https://jobicy.com/jobs/160293-developer-enterprise-tenants-and-policies",
+      "requisition_id": "b9ff2259-517c-4ec2-b92f-646be8bf12b6",
+      "arrangement": "Remote within United States or Canada from home country; Illinois not excluded, state payroll eligibility not explicitly listed. Travel required for in-person engagement, frequency depends on role.",
+      "workplace": "Remote",
+      "salary": "$123,000–$172,000",
+      "salary_scope": "Employer USA base range, distinct Canada CAD111000–155000",
+      "evidence": [
+        "Approximately2years9months production Ender experience meets2+years",
+        "Java services, REST APIs and SQL integrations support modern backend language experience; advertised languages are examples rather than exclusive list",
+        "Testing, API tracing/debugging and cross-functional QA/product work directly support quality and diagnosis emphasis",
+        "Production React/TypeScript matches frontend bonus"
+      ],
+      "transferable": [
+        "Java backend experience transfers to another modern backend language, but does not establish proficiency in Go/Node/Ruby/Python",
+        "Existing integration work supports multi-service collaboration; architecture at enterprise scale remains a growth area"
+      ],
+      "gaps": [
+        "Specific Go/Node/Ruby/Python production depth unconfirmed; Java not explicitly named but examples non-exclusive",
+        "Multi-tenancy, authorization/policy systems, Kubernetes and large distributed-system depth not established",
+        "Mentoring experience and formal on-call experience unconfirmed"
+      ],
+      "responsibilities": [
+        "Intermediate level; explicit mentoring junior/new engineers",
+        "Rotational on-call for emergencies",
+        "Architecture/design documentation and monolith-to-microservices migration",
+        "Required travel with unspecified frequency; demanding pace/ambiguity stated",
+        "Responsible AI applications allowed; live interviews without AI"
+      ],
+      "first_seen": "2026-11-10",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-10T15:09:18.904599+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Jobicy",
+          "url": "https://jobicy.com/jobs/160293-developer-enterprise-tenants-and-policies"
+        }
+      ]
+    },
+    {
+      "id": "b9776052727107ba",
+      "company": "Edmentum",
+      "title": "Software Engineer I",
+      "role": "Software engineering",
+      "employer_url": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004",
+      "application_url": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004",
+      "requisition_id": "6255572004",
+      "arrangement": "Employer remote-first, posting location Bloomington MN. Form asks Twin Cities proximity and residence in50USstates. Illinois eligibility and any office requirement unresolved.",
+      "workplace": "Remote",
+      "salary": "Salary needs clarification",
+      "salary_scope": "Confirm geographic applicability and compensation basis with employer.",
+      "evidence": [
+        "Explicit Engineer I with senior guidance, mentorship, code reviews and learning fits preferred lower-responsibility scope.",
+        "Ender Java object-oriented services, React/TypeScript features, REST/database integrations and Git/Agile meet language-flexible portions.",
+        "Automated tests, CI/CD improvements, diagnostics and AI-assisted engineering directly relate to listed duties.",
+        "Original resume lists Angular9 as plain skill; no professional Angular implementation claim."
+      ],
+      "transferable": [
+        "Production Java transfers to C#/.NET; production C#/.NET not established.",
+        "React frontend work transfers to Angular; actual Angular depth unconfirmed."
+      ],
+      "gaps": [
+        "Posting explicitly says candidates must have.NET and Angular, but later accepts another object-oriented language and frontend framework; clarify which is binding.",
+        "Remote-first company does not establish Illinois eligibility for Bloomington-tagged role; required form asks local proximity.",
+        "0-2years target versus approximately2years9months industry tenure; willingness to accept a junior role is user-confirmed, employer flexibility unknown.",
+        "Salary bottom80k below approximate85kjunior preference; confirm offer. AWS depth unknown, listed as plus."
+      ],
+      "responsibilities": [
+        "Works within established architecture with senior guidance, escalates production issues; no formal mentoring others or management.",
+        "Deployments and production troubleshooting; on-call not explicitly stated."
+      ],
+      "first_seen": "2026-11-23",
+      "published_at": "2026-11-11T15:31:18-05:00",
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-23T15:01:56.182845+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Edtech.com software engineering rotation",
+          "url": "https://www.edtech.com/jobs/software-engineer-jobs"
+        }
+      ]
+    },
+    {
+      "id": "fdb863354fe365c5",
+      "company": "CoinTracker",
+      "title": "Product Engineer, Nino",
+      "role": "Full-stack",
+      "employer_url": "https://jobs.ashbyhq.com/cointracker/fa2bfa0d-b887-4a6f-bb51-8b4997748ae1",
+      "application_url": "https://jobicy.com/jobs/163092-product-engineer-nino",
+      "requisition_id": "fa2bfa0d-b887-4a6f-bb51-8b4997748ae1",
+      "arrangement": "Remote United States or Canada; full time. Illinois not excluded, but exact state employment eligibility, travel and any in-person expectations are not detailed.",
+      "workplace": "Remote",
+      "salary": "$140,250–$207,775",
+      "salary_scope": "Employer starting salary range in USD; location does not change posted range; actual offer based on skills, education and experience. Equity and benefits additional.",
+      "evidence": [
+        "Ender React/TypeScript product features, Java APIs and integrations demonstrate work across interface and backend.",
+        "Identified QA/product bug-reporting problem and built API tracing tool, matching user-problem discovery and useful product delivery.",
+        "Relational test-data tooling, diagnostics and automated tests support correctness and reliable workflows."
+      ],
+      "transferable": [
+        "Financial-domain and agent-product work are new domains; employer explicitly says prior finance, AI/ML or exact-stack experience is not required."
+      ],
+      "gaps": [
+        "Design ownership and independent customer discovery depth should be demonstrated with concrete examples.",
+        "Illinois employment eligibility and office/travel cadence need clarification."
+      ],
+      "responsibilities": [
+        "Small early product team; high ownership from customer discovery and design through launch.",
+        "Build financial workflows, integrations and agent interfaces requiring careful correctness.",
+        "No formal years minimum, management, mentoring others or on-call requirement stated."
+      ],
+      "first_seen": "2026-11-18",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-18T15:08:16.978713+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Jobicy",
+          "url": "https://jobicy.com/jobs/163092-product-engineer-nino"
+        }
+      ]
+    },
+    {
+      "id": "0e2e58be9ca45821",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Test Infra)",
+      "role": "Developer tools",
+      "employer_url": "https://job-boards.greenhouse.io/affirm/jobs/7727320003",
+      "application_url": "https://job-boards.greenhouse.io/affirm/jobs/7727320003",
+      "requisition_id": "7727320003",
+      "arrangement": "Work arrangement needs clarification",
+      "workplace": "Clarify",
+      "salary": "Salary needs clarification",
+      "salary_scope": "Current posting has unfilled $X salary placeholders; prior146-206k range is historical/unverified.",
+      "evidence": [
+        "Very close overlap with test-data generation, test infrastructure, automation and CI/CD improvements."
+      ],
+      "transferable": [],
+      "gaps": [
+        "Explicit East Coast location requested; Jerry is Chicago",
+        "Python, Playwright and Pytest depth not established",
+        "On-call rotation"
+      ],
+      "responsibilities": [],
+      "first_seen": "2026-10-28",
+      "published_at": "2026-07-10T09:25:07-04:00",
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-24T15:08:12.941708+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": []
+    },
+    {
+      "id": "9a31bd2055e468fb",
+      "company": "GoodLeap",
+      "title": "Software Engineer, AI Transformation",
+      "role": "Software engineering",
+      "employer_url": "https://jobs.lever.co/goodleap/65bb56a4-7e99-4e59-847d-b4b9240bbc4e",
+      "application_url": "https://jobicy.com/jobs/163995-software-engineer-ai-transformation",
+      "requisition_id": "65bb56a4-7e99-4e59-847d-b4b9240bbc4e",
+      "arrangement": "Remote US expressly listed; no Illinois exclusion or fixed office cadence in posting.",
+      "workplace": "Remote",
+      "salary": "$106,100–$131,900",
+      "salary_scope": "Annual USD base applicable to Illinois; individual offer depends on experience/location.",
+      "evidence": [
+        "Ender production TypeScript and API integration map to core requirements.",
+        "User-confirmed LLM customer chat and document processing relates to AI integrations.",
+        "Debug tooling, QA/product partnership, tests and code review support internal business collaboration."
+      ],
+      "transferable": [
+        "Production Java backend/API experience transfers to other backend languages; Python/Node professional proficiency is not established."
+      ],
+      "gaps": [
+        "3+professional years requested; approximately2years9months confirmed.",
+        "Cloud experience required; AWS listed but production depth not confirmed.",
+        "Specific enterprise platforms, agent frameworks/evals and Salesforce depth unconfirmed; Salesforce willingness required."
+      ],
+      "responsibilities": [
+        "End-to-end prototype through production support; ambiguous cross-team business requirements.",
+        "Periodic Salesforce platform work, user training and handoff; no explicit management or on-call cadence."
+      ],
+      "first_seen": "2026-11-24",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-24T15:08:12.941708+00:00",
+      "new_to_search": true,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Jobicy",
+          "url": "https://jobicy.com/jobs/163995-software-engineer-ai-transformation"
+        }
+      ]
+    },
+    {
+      "id": "a21f3272bd156044",
+      "company": "Rewards Network",
+      "title": "Front End Engineer (Hybrid)",
+      "role": "Frontend",
+      "employer_url": "https://job-boards.greenhouse.io/rewardsnetwork/jobs/5292899007",
+      "application_url": "https://job-boards.greenhouse.io/rewardsnetwork/jobs/5292899007",
+      "requisition_id": "5292899007",
+      "arrangement": "Chicago hybrid Tuesday-Thursday in office; three days weekly.",
+      "workplace": "Chicago hybrid",
+      "salary": "$120,000–$160,000",
+      "salary_scope": "Annual USD base applicable to Illinois; individual offer depends on experience/location.",
+      "evidence": [
+        "Production React/TypeScript customer-facing features and API integration match.",
+        "Testing/CI, debugging withQA/product and developer tooling map to practical duties.",
+        "Mid-level and senior bands; mentoring/technical direction explicitly senior only."
+      ],
+      "transferable": [],
+      "gaps": [
+        "4+years requested versus approximately2years9months professional experience.",
+        "AccessibilityWCAG2.1AA, design-system/monorepo and identity implementation depth unconfirmed.",
+        "Production ReactNative/Expo preferred, not required; limited hobby/early design exposure must not become shipping claim."
+      ],
+      "responsibilities": [
+        "Independent feature ownership, release support and production troubleshooting; no stated on-call schedule.",
+        "Target mid-level scope; senior band includes mentoring and direction."
+      ],
+      "first_seen": "2026-11-24",
+      "published_at": "2026-11-11T17:00:06-05:00",
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-24T15:08:12.941708+00:00",
+      "new_to_search": true,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "EchoJobs",
+          "url": "https://echojobs.io/job/rewards-network-front-end-engineer-hybrid-jbsmh"
+        }
+      ]
+    },
+    {
+      "id": "eb5b893fb2a4700b",
+      "company": "Roboflow",
+      "title": "Full Stack Engineer",
+      "role": "Full-stack",
+      "employer_url": "https://jobs.ashbyhq.com/roboflow/e1757849-8d06-45b8-b462-f08c8e761397/",
+      "application_url": "https://jobicy.com/jobs/151415-full-stack-engineer",
+      "requisition_id": "e1757849-8d06-45b8-b462-f08c8e761397",
+      "arrangement": "Fully distributed US remote; optional NYC/SF hubs. Company careers describes two annual company onsites.",
+      "workplace": "Remote",
+      "salary": "$165,000–$195,000",
+      "salary_scope": "Annual USD base applicable to Illinois; individual offer depends on experience/location.",
+      "evidence": [
+        "Ender frontend features, REST integrations, debugging and developer testing improvements align with example projects.",
+        "JavaScript generalist role explicitly welcomes learning unfamiliar stack areas; no demand for prior expertise in all listed tools.",
+        "LLM product integration is adjacent AI product experience, not computer vision expertise."
+      ],
+      "transferable": [
+        "Production Java backend/API experience transfers to other backend languages; Python/Node professional proficiency is not established."
+      ],
+      "gaps": [
+        "Node.js backend, Firebase/GCS and computer vision depth not established.",
+        "YC employer listing says3+years; actual tenure approximately2years9months.",
+        "Much broader autonomy and strategy influence than junior scope; salary does not make this higher priority."
+      ],
+      "responsibilities": [
+        "High autonomy, shifting priorities, production firefighting and strategy input.",
+        "Two annual company onsites per careers page; no explicit formal on-call cadence.",
+        "Interview includes6+hours and a project; no assessment performed."
+      ],
+      "first_seen": "2026-11-24",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-24T15:08:12.941708+00:00",
+      "new_to_search": true,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Jobicy",
+          "url": "https://jobicy.com/jobs/151415-full-stack-engineer"
+        }
+      ]
+    },
+    {
+      "id": "6a77cd8d7f1ea598",
+      "company": "Liftoff",
+      "title": "Software Engineer, Dash",
+      "role": "Software engineering",
+      "employer_url": "https://liftoff.ai/job/?gh_jid=8397888",
+      "application_url": "https://jobicy.com/jobs/163567-software-engineer-dash",
+      "requisition_id": "8397888",
+      "arrangement": "US remote with Illinois explicitly approved. At least quarterly in-person team gatherings required; remote-first hubs Redwood City, LA and NYC.",
+      "workplace": "Remote",
+      "salary": "$180,000–$223,000",
+      "salary_scope": "Employer base range for all other approved-state cities/towns, applicable to Chicago IL; higher SF/NYC/LA/Seattle/Austin/Boston tiers do not apply. Equity and benefits additional.",
+      "evidence": [
+        "Production React/TypeScript interfaces, Java services and REST/database work match full-stack UI/API development.",
+        "API tracing and diagnostics plus testing/CI/CD tools relate to observability, developer tooling and reliable delivery.",
+        "Some LLM product integration in customer chat/document processing adds context, not proof of agent platforms or ML pipelines.",
+        "Engineering bachelors and full-stack production work satisfy relevant foundation; no formal years minimum stated."
+      ],
+      "transferable": [
+        "General APIs/data modeling transfer to campaign configuration/analytics; adtech, bidding and ML pipelines are new domains."
+      ],
+      "gaps": [
+        "Professional cloud infrastructure and container-orchestration depth not established.",
+        "High-availability, low-latency global scale and large-source analytics require stronger evidence.",
+        "Agentic workflow leadership, system-design and mentoring scope need clarification; salary does not imply junior duties.",
+        "Quarterly travel frequency/location and on-call expectations need clarification."
+      ],
+      "responsibilities": [
+        "Independent ownership, architecture/long-term planning and mentoring opportunities.",
+        "Global low-latency platform reliability and analytics, internal/external UIs.",
+        "Quarterly in-person gatherings mandatory; formal on-call not specified."
+      ],
+      "first_seen": "2026-11-21",
+      "published_at": "2026-11-18T14:25:26-05:00",
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-21T15:04:00.343533+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Jobicy",
+          "url": "https://jobicy.com/jobs/163567-software-engineer-dash"
+        }
+      ]
+    }
+  ],
+  "qualifying_count": 35,
+  "sources": [
+    {
+      "name": "We Work Remotely",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 25,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Himalayas",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 200,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Jobicy",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 122,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Remotive",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 15,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Working Nomads",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 37,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Remote OK",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 100,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Hacker News Who is hiring",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 490,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Affirm direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 217,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Supermove direct Lever",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 5,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Reddit direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 147,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Recidiviz direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 13,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Mercury direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 68,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Smartsheet direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 78,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Ellevation direct Lever",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 5,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Braze direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 345,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "GOAT Group direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 11,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Omada Health direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 25,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "PlanetScale direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 12,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Metabase direct Lever",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 21,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "GiveCampus direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 14,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Sphinx Defense direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 17,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Zwift direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 10,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Engine direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 73,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "RainFocus direct Lever",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 12,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "LogicGate direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 9,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Oddball direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 20,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Posit direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 4,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "GHX direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 31,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Fleetio direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 16,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "GitLab direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 252,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Automox direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 4,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Liftoff direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 23,
+      "error": null,
+      "baseline": false
+    },
+    {
+      "name": "Edmentum direct Greenhouse",
+      "checked_at": "2026-11-24T15:01:47.296088+00:00",
+      "count": 36,
+      "error": null,
+      "baseline": true
+    }
+  ],
+  "boards": [
+    {
+      "name": "We Work Remotely",
+      "url": "https://weworkremotely.com/remote-job-rss-feed",
+      "access": "public_feed",
+      "cadence": "daily"
+    },
+    {
+      "name": "Himalayas",
+      "url": "https://himalayas.app/docs/remote-jobs-api",
+      "access": "public_api",
+      "cadence": "daily"
+    },
+    {
+      "name": "Jobicy",
+      "url": "https://jobicy.com/jobs-rss-feed",
+      "access": "public_api",
+      "cadence": "daily"
+    },
+    {
+      "name": "Remotive",
+      "url": "https://github.com/remotive-com/remote-jobs-api",
+      "access": "public_api",
+      "cadence": "daily"
+    },
+    {
+      "name": "Working Nomads",
+      "url": "https://www.workingnomads.com/jobs",
+      "access": "public_api",
+      "cadence": "daily"
+    },
+    {
+      "name": "Remote OK",
+      "url": "https://remoteok.com/",
+      "access": "public_api",
+      "cadence": "daily"
+    },
+    {
+      "name": "Greenhouse public boards",
+      "url": "https://docs.greenhouse.io/job-board",
+      "access": "public_api",
+      "cadence": "daily"
+    },
+    {
+      "name": "Lever public postings",
+      "url": "https://github.com/lever/postings-api",
+      "access": "public_api",
+      "cadence": "daily"
+    },
+    {
+      "name": "Ashby public boards",
+      "url": "https://developers.ashbyhq.com/docs/public-job-posting-api",
+      "access": "public_api",
+      "cadence": "daily"
+    },
+    {
+      "name": "SmartRecruiters public postings",
+      "url": "https://developers.smartrecruiters.com/docs/posting-api",
+      "access": "public_api",
+      "cadence": "daily"
+    },
+    {
+      "name": "Hacker News Who is hiring",
+      "url": "https://hn.algolia.com/api",
+      "access": "public_api",
+      "cadence": "daily"
+    },
+    {
+      "name": "NoDesk",
+      "url": "https://nodesk.co/remote-jobs/",
+      "access": "public_web",
+      "cadence": "daily"
+    },
+    {
+      "name": "Remote Rocketship",
+      "url": "https://www.remoterocketship.com/",
+      "access": "public_web_account_options",
+      "cadence": "rotation"
+    },
+    {
+      "name": "JustRemote",
+      "url": "https://justremote.co/",
+      "access": "public_web_paid_options",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Real Work From Anywhere",
+      "url": "https://www.realworkfromanywhere.com/",
+      "access": "public_web",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Remote.co developer jobs",
+      "url": "https://remote.co/remote-jobs/developer",
+      "access": "public_web_account_options",
+      "cadence": "rotation"
+    },
+    {
+      "name": "FlexJobs",
+      "url": "https://www.flexjobs.com/",
+      "access": "public_web_paid_options",
+      "cadence": "rotation"
+    },
+    {
+      "name": "4 Day Week",
+      "url": "https://4dayweek.io/",
+      "access": "public_web_account_options",
+      "cadence": "rotation"
+    },
+    {
+      "name": "TypeScript Jobs",
+      "url": "https://typescriptjobs.net/",
+      "access": "public_web",
+      "cadence": "daily"
+    },
+    {
+      "name": "JavaScript Jobs, formerly JSRemotely",
+      "url": "https://javascript.jobs/remote",
+      "access": "public_web",
+      "cadence": "rotation"
+    },
+    {
+      "name": "TryRemote, formerly ReactJobsBoard",
+      "url": "https://tryremote.com/",
+      "access": "public_web",
+      "cadence": "rotation"
+    },
+    {
+      "name": "DevITJobs US",
+      "url": "https://devitjobs.com/",
+      "access": "public_web",
+      "cadence": "daily"
+    },
+    {
+      "name": "Python.org Jobs",
+      "url": "https://www.python.org/jobs/",
+      "access": "public_web",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Django community jobs",
+      "url": "https://www.djangoproject.com/community/jobs/",
+      "access": "public_web",
+      "cadence": "weekly"
+    },
+    {
+      "name": "Golangprojects",
+      "url": "https://www.golangprojects.com/",
+      "access": "public_web_feed_available",
+      "cadence": "weekly"
+    },
+    {
+      "name": "EchoJobs",
+      "url": "https://echojobs.io/",
+      "access": "public_web",
+      "cadence": "daily"
+    },
+    {
+      "name": "HiringCafe",
+      "url": "https://hiringcafe.com/",
+      "access": "public_web_account_options",
+      "cadence": "daily"
+    },
+    {
+      "name": "Dice",
+      "url": "https://www.dice.com/",
+      "access": "public_web_account_options",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Levels.fyi Jobs",
+      "url": "https://www.levels.fyi/jobs",
+      "access": "public_web_account_options",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Simplify",
+      "url": "https://simplify.jobs/",
+      "access": "public_web_account_options",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Wellfound",
+      "url": "https://wellfound.com/jobs",
+      "access": "public_web_account_options",
+      "cadence": "daily"
+    },
+    {
+      "name": "Startup Jobs",
+      "url": "https://startup.jobs/",
+      "access": "public_web",
+      "cadence": "daily"
+    },
+    {
+      "name": "a16z portfolio jobs",
+      "url": "https://jobs.a16z.com/",
+      "access": "public_web",
+      "cadence": "daily"
+    },
+    {
+      "name": "Accel portfolio jobs",
+      "url": "https://jobs.accel.com/companies",
+      "access": "public_web",
+      "cadence": "rotation"
+    },
+    {
+      "name": "General Catalyst portfolio jobs",
+      "url": "https://jobs.generalcatalyst.com/companies",
+      "access": "public_web",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Drive Capital portfolio jobs",
+      "url": "https://jobs.drivecapital.com/companies",
+      "access": "public_web",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Built In Chicago engineering",
+      "url": "https://www.builtinchicago.org/jobs/dev-engineering",
+      "access": "public_web",
+      "cadence": "daily"
+    },
+    {
+      "name": "Hyde Park Venture Partners",
+      "url": "https://jobs.hydeparkvp.com/jobs",
+      "access": "public_web",
+      "cadence": "daily"
+    },
+    {
+      "name": "TechNexus portfolio careers",
+      "url": "https://www.technexus.com/careers/",
+      "access": "public_web",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Climatebase",
+      "url": "https://www.climatebase.org/jobs",
+      "access": "public_web_account_options",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Tech Jobs for Good",
+      "url": "https://techjobsforgood.com/",
+      "access": "public_web_paid_options",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Fast Forward tech nonprofit jobs",
+      "url": "https://jobs.ffwd.org/jobs",
+      "access": "public_web",
+      "cadence": "rotation"
+    },
+    {
+      "name": "Idealist",
+      "url": "https://www.idealist.org/en",
+      "access": "public_web_account_options",
+      "cadence": "weekly"
+    },
+    {
+      "name": "80,000 Hours",
+      "url": "https://jobs.80000hours.org/",
+      "access": "public_web_account_options",
+      "cadence": "weekly"
+    },
+    {
+      "name": "Edtech.com",
+      "url": "https://www.edtech.com/jobs",
+      "access": "public_web",
+      "cadence": "rotation"
+    },
+    {
+      "name": "USAJOBS",
+      "url": "https://www.usajobs.gov/search/",
+      "access": "public_web_account_options",
+      "cadence": "weekly"
+    },
+    {
+      "name": "Code for America",
+      "url": "https://codeforamerica.org/jobs/",
+      "access": "public_web",
+      "cadence": "weekly"
+    },
+    {
+      "name": "React Status",
+      "url": "https://react.statuscode.com/",
+      "access": "public_archive_rss",
+      "cadence": "weekly"
+    },
+    {
+      "name": "JavaScript Weekly",
+      "url": "https://javascriptweekly.com/",
+      "access": "public_archive_rss",
+      "cadence": "weekly"
+    },
+    {
+      "name": "Node Weekly",
+      "url": "https://nodeweekly.com/",
+      "access": "public_archive_rss",
+      "cadence": "weekly"
+    }
+  ],
+  "board_reviews": [
+    {
+      "name": "TypeScript Jobs",
+      "url": "https://typescriptjobs.net/",
+      "checked_on": "2026-11-24",
+      "finding": "Latest176today/26687total inventory reviewed:PlaylabstaffAI,InfineonGermany/BraiinsCzech/ArtefactGermany; no extra appropriate primary.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "DevITJobs US",
+      "url": "https://devitjobs.com/",
+      "checked_on": "2026-11-24",
+      "finding": "45remoteJava category read: seniorJava,Springstaffing,SGAJavaAngular below85k and SynergisticITtraining/placement; no verified additional fit.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "EchoJobs",
+      "url": "https://echojobs.io/",
+      "checked_on": "2026-11-24",
+      "finding": "TargetedChicagoReact search found RewardsNetwork5292899007 primary verified. IMCAItooling duplicate; Looponsite andArrive.NET leads not promoted.",
+      "access_problem": null,
+      "verified_matches": 1
+    },
+    {
+      "name": "HiringCafe",
+      "url": "https://hiringcafe.com/",
+      "checked_on": "2026-11-24",
+      "finding": "Chicago remote application list:Unitedapplicationcybersecurity needssecuritytesting/threatmodeling; Rush5+and3+native. No additional closer match.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "Startup Jobs",
+      "url": "https://startup.jobs/",
+      "checked_on": "2026-11-24",
+      "finding": "Most recent public jobs:BoxjuniorfrontendWarsaw,Londonconsultant,GitLabsecurityIsrael,SimilarwebPrague; no eligible new verified match.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "Wellfound",
+      "url": "https://wellfound.com/jobs",
+      "checked_on": "2026-11-24",
+      "finding": "Remote742role inventory repeatsRima4+actualscope anddiscoveredLabs20-28k;swivl5years. No additional verified primary.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "YC Work at a Startup",
+      "url": "https://www.workatastartup.com/",
+      "checked_on": "2026-11-24",
+      "finding": "Remoteengineering recent list:OneChronosmanager,Postscript seniorbackend,KelAIresearch,ShortKitduplicate. RoboflowYCrole corroborates3+years andUSremote; canonicalAshbyverified.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "a16z portfolio jobs",
+      "url": "https://jobs.a16z.com/",
+      "checked_on": "2026-11-24",
+      "finding": "18326roles, latestMiragerecruiter,IllumioSydneySDR,TalosLondonarchitect andStripeDublinstrategist. Bounded public review no new closer engineering primary.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "Built In Chicago engineering",
+      "url": "https://www.builtinchicago.org/jobs/dev-engineering",
+      "checked_on": "2026-11-24",
+      "finding": "Entry-level inventory reviewed:appliedAffirm/Smartsheet andsavedRelativity repeats;MicrosoftCTJrequiressecuritycontext,Chamberlainnativegap previouslyscreened. No added primary.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "Hyde Park Venture Partners",
+      "url": "https://jobs.hydeparkvp.com/jobs",
+      "checked_on": "2026-11-24",
+      "finding": "532publicjobs,latestPartySlatecustomersuccess andclinical/business inventory; no added verified eligible developer role.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "Tech Jobs for Good",
+      "url": "https://techjobsforgood.com/",
+      "checked_on": "2026-11-24",
+      "finding": "79freejobs,828paywalled notaccessed. ProPublicafrontendrequiresrecentCDPimplementation unconfirmed; eQualduplicate,otherssenior/lead. No extra strongest primary.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "Accel portfolio jobs",
+      "url": "https://jobs.accel.com/companies",
+      "checked_on": "2026-11-24",
+      "finding": "49199roles/latestSemmleseniorcompute reviewed plus targetedEngineerI search. HoneycombLLMobservabilityI staleaggregate: current primary15jobs hasonlyseniorII/storage/agentic roles, not promoted. H1 searchspecialist andSupermoveduplicate.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "General Catalyst portfolio jobs",
+      "url": "https://jobs.generalcatalyst.com/companies",
+      "checked_on": "2026-11-24",
+      "finding": "26254roles; latestGoodstackCSM,Cityblockclinical,MonzoDublin andSamsaraCanada. TargetedReactresultsTraackr,Quest,Topstep olderprimaryunverified;researchqueue only;Metabaseduplicate.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "JavaScript Jobs, formerly JSRemotely",
+      "url": "https://javascript.jobs/remote",
+      "checked_on": "2026-11-24",
+      "finding": "Remote latest heavyMozillaSpiderMonkeystaffreposts,Beacon seniorReactNative,olderNorthbeamstaff andGitLabCanada. No eligible new closer primary.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "TryRemote, formerly ReactJobsBoard",
+      "url": "https://tryremote.com/",
+      "checked_on": "2026-11-24",
+      "finding": "20+latest:foreignGcore/SupportYourApp,USseniordata andmanagers. PaddleGo role opened butGo/AWSdepthmissing andactualhubeligibilityunverified; no recommendation.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "Climatebase",
+      "url": "https://www.climatebase.org/jobs",
+      "checked_on": "2026-11-24",
+      "finding": "Publicfiltersread;jobcardsabsent andtargetedpublicindexsearch no usable result. Extraattempt notcountedamong5successfulrotations.",
+      "access_problem": "Dynamic job inventory unavailable in web text.",
+      "verified_matches": 0
+    },
+    {
+      "name": "r/typescript monthly hiring",
+      "url": "https://www.reddit.com/r/typescript/comments/1wukscl/whos_hiring_typescript_developers_october/",
+      "checked_on": "2026-11-24",
+      "finding": "November sameAustralia startup/BytamicPoland;October noemployerbodies. Contestmode cachedtext meansno exhaustivechronologicalcoverage; noAPI.",
+      "access_problem": "Contestmode randomsorting;October commentbodies unavailable.",
+      "verified_matches": 0
+    },
+    {
+      "name": "Hacker News Who is hiring",
+      "url": "https://hn.algolia.com/api",
+      "checked_on": "2026-11-24",
+      "finding": "Current/previousmonthlycollector: no new/changedsoftware employer comments among490totalcomments. Existingsoftwareentries unchanged.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "We Work Remotely",
+      "url": "https://weworkremotely.com/remote-job-rss-feed",
+      "checked_on": "2026-11-24",
+      "finding": "NewVerticanseniorappliedAIdocument role specializedsenior scope, not confirmedjunior/mid fit.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "Himalayas",
+      "url": "https://himalayas.app/docs/remote-jobs-api",
+      "checked_on": "2026-11-24",
+      "finding": "63new-sourceevents screened acrosssources: R1C#ASP.NET4+mentoring,Covius6+.NET,OneCall5+principalAI,Huntridge2+modeltrainingframeworkgap,PeratonPythonRAGclearance. Otherforeign/nonsoftware/specialist leads. Update timestamps retained.",
+      "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "Jobicy",
+      "url": "https://jobicy.com/jobs-rss-feed",
+      "checked_on": "2026-11-24",
+      "finding": "GoodLeapexactLeverUSremote verified; Roboflowchangedcrosspost newlyreviewedprimary. GovSignals5+govexperience andBrooklyn3dayscontradictsremote. Makai juniorprimarycontract onlyNY/CA/MA/NJ/NC/TX excludeslistedIllinois; no recommendation. Sourceapplylinks retained.",
+      "access_problem": "GoodLeapweb403 resolvedinbrowser, notclosure. Jobicyemployerapply gated; independentofficialverification retainedwithoriginalsourcelink.",
+      "verified_matches": 2
+    },
+    {
+      "name": "Direct employer feeds",
+      "url": null,
+      "checked_on": "2026-11-24",
+      "finding": "33/33successful includingEdmentumfirstbaseline3softwareleads alreadyreviewed. NewSmartsheetIIAI verifiedfreshNov23; seniorAgent5+deepPython2+agentyears notfit. LogicGatealreadyapplied. AffirmTestInfraoldJulyrole updatedsalarynowplaceholders; historicalsalarycorrected,EastCoastrequirementunchanged.",
+      "access_problem": null,
+      "verified_matches": 1
+    },
+    {
+      "name": "Remote OK / Remotive / Working Nomads",
+      "url": null,
+      "checked_on": "2026-11-24",
+      "finding": "NewCloverHealthsenioragenticAI andGitLabsecurity/performance beyondscope;RemotiveLemoncontractseniorchanged. No added closer primary.",
+      "access_problem": null,
+      "verified_matches": 0
+    }
+  ],
+  "last_source_review_date": "2026-11-24"
+}
