@@ -24,12 +24,19 @@ function loadSaved(): string[] {
 }
 
 export default function App() {
-  const [feed, { refetch }] = createResource(async (): Promise<Feed> => {
-    const response = await fetch(`${import.meta.env.BASE_URL}data/latest.json`, { cache: 'no-store' });
-    if (!response.ok) throw new Error(`Update unavailable (${response.status}).`);
-    const data = await response.json();
-    if (data.schema_version !== 1 || !Array.isArray(data.jobs) || !Array.isArray(data.sources)) throw new Error('Unsupported update format.');
-    return data;
+  const [loadError, setLoadError] = createSignal('');
+  const [feed, { refetch }] = createResource(async (): Promise<Feed | undefined> => {
+    setLoadError('');
+    try {
+      const response = await fetch(`${import.meta.env.BASE_URL}data/latest.json`, { cache: 'no-store' });
+      if (!response.ok) throw new Error(`Update unavailable (${response.status}).`);
+      const data = await response.json();
+      if (data.schema_version !== 1 || !Array.isArray(data.jobs) || !Array.isArray(data.sources)) throw new Error('Unsupported update format.');
+      return data;
+    } catch (error) {
+      setLoadError(error instanceof SyntaxError ? 'The update file is missing or unreadable.' : error instanceof Error ? error.message : 'Connection failed.');
+      return undefined;
+    }
   });
   const [view, setView] = createSignal('Discover');
   const [search, setSearch] = createSignal('');
@@ -71,7 +78,7 @@ export default function App() {
       <header class="topbar"><span>YOUR NEXT CHAPTER</span><a href="https://github.com/jmpherso/jmpherso.github.io">View project</a></header>
       <div class="content">
         <div class="page-heading"><div><div class="eyebrow">A LITTLE MOMENTUM, EVERY MORNING</div><h1>{view() === 'Discover' ? 'Find your next good fit.' : view() === 'Saved jobs' ? 'Worth a closer look.' : 'A wider search.'}</h1><p class="intro">{view() === 'Sources' ? 'Public boards, employer feeds, and an honest view of coverage.' : 'A focused shortlist. Clear tradeoffs. A place to move things forward.'}</p></div><button class="refresh" onClick={() => refetch()} disabled={feed.loading}>Refresh update</button></div>
-        <Show when={feed.error}><div class="alert" role="alert">We couldn’t load the daily update. {String(feed.error?.message || '')} <button onClick={() => refetch()}>Try again</button></div></Show>
+        <Show when={loadError()}><div class="alert" role="alert">We couldn’t load the daily update. {loadError()} <button onClick={() => refetch()}>Try again</button></div></Show>
         <Show when={feed.loading && !feed()}><div class="empty" role="status">Loading your shortlist…</div></Show>
         <Show when={feed()}>{data => <>
           <Show when={stale()}><div class="alert">The last discovery run is over 36 hours old. Listings below retain their original verification dates.</div></Show>
