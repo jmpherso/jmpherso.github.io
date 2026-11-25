@@ -4,11 +4,7 @@ A Solid + TypeScript site hosted at https://jmpherso.github.io. The browser load
 
 ## Develop
 
-Run 
-pm ci, 
-pm run check, and 
-pm run build. Run 
-pm run dev for a local preview. Static output goes to dist/. main stores source and public/data/latest.json; gh-pages stores the published build and data/latest.json. Existing GitHub Pages branch publishing handles deployment. Never put private search records in this repository.
+Run npm ci, npm run check, and npm run build. Run npm run dev for a local preview. Static output goes to dist/. main stores source and public/data/latest.json; gh-pages stores the published build and data/latest.json. Existing GitHub Pages branch publishing handles deployment. Never put private search records in this repository.
 
 ## Morning publishing contract
 
@@ -31,3 +27,8 @@ The public JSON intentionally includes ordinary professional match evidence and 
 ## UI changes
 
 After checks and browser QA, publish source changes to main and the matching static build to gh-pages using atomic Git tree/commit/ref updates. Preserve unrelated files and branch history. Add .nojekyll to the static output. Data-only daily refreshes require no rebuild. Keep the two JSON copies identical.
+
+
+## Visual direction
+
+The toolbox uses a resume-inspired document layout: white paper on a gray desktop, black rules, serif employer/role headings, dated entries, evidence bullets and restrained monospace notes. Preserve the jt mark in its original dark ink and mint colors. Keep humor limited to labels such as Experience wanted and Sources & references. Avoid dashboard tiles, pill badges, colored company avatars, a fixed sidebar and generic motivational hero copy. Search, saved roles, source health and the daily JSON remain functional tools within the document. Narrow screens reflow the sheet rather than shrinking the type.
