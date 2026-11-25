@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Manrope:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
 
 :root {
   font-family: Arial, Helvetica, sans-serif;
@@ -29,8 +29,8 @@ button:disabled { cursor: wait; opacity: .5; }
 .shell { padding: 0 32px 64px; }
 .desktop-header { max-width: 1120px; margin: 0 auto; min-height: 96px; display: flex; align-items: center; justify-content: space-between; gap: 24px; }
 .brand { display: flex; align-items: center; gap: 13px; text-decoration: none; }
-.brandmark { display: flex; align-items: center; justify-content: center; font-family: Manrope, sans-serif; font-size: 43px; font-weight: 800; line-height: 1; letter-spacing: -5px; width: 64px; height: 64px; padding-right: 3px; background: #101e2c; color: #fff; }
-.brandmark span { color: #77d9b2; letter-spacing: 0; }
+.brandmark { display: flex; align-items: center; justify-content: center; font-family: 'Cormorant Garamond', 'Times New Roman', serif; font-size: 68px; font-style: italic; font-weight: 600; line-height: 1; letter-spacing: -4px; width: 64px; height: 64px; padding: 0 6px 8px 0; background: transparent; color: var(--ink); }
+.brandmark span { color: inherit; letter-spacing: 0; }
 .brand-name { font-family: var(--mono); font-size: 13px; line-height: 1.5; }
 .brand-name strong { font-weight: 500; }
 .desktop-header nav { display: flex; align-items: center; gap: 25px; }
@@ -127,7 +127,7 @@ button:disabled { cursor: wait; opacity: .5; }
 @media (max-width: 600px) {
   .shell { padding: 0 0 30px; }
   .desktop-header { min-height: 86px; gap: 15px; padding: 14px 17px; }
-  .brandmark { width: 49px; height: 49px; font-size: 34px; }
+  .brandmark { width: 49px; height: 49px; font-size: 54px; padding-bottom: 6px; }
   .brand-name { display: none; }
   .desktop-header nav { gap: 17px; }
   .desktop-header nav button { font-size: 13px; }
