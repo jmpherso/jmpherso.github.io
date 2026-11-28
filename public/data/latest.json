@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-27T15:06:48.392875+00:00",
-  "discovery_at": "2026-11-27T15:01:15.981358+00:00",
+  "generated_at": "2026-11-28T15:02:34.988732+00:00",
+  "discovery_at": "2026-11-28T14:59:00.968071+00:00",
   "target_count": 25,
   "selection_note": "Rolling shortlist from employer verifications in the last 14 days. Prioritizes realistic junior/mid-level scope and supported work; salary never boosts rank. New to search does not mean newly posted. Availability can change after verification.",
   "jobs": [
@@ -38,7 +38,7 @@
       "first_seen": "2026-10-30",
       "published_at": "2026-07-30T16:58:29-04:00",
       "source_updated_at": "2026-10-29T08:48:46-05:00",
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -85,7 +85,7 @@
       "first_seen": "2026-11-04",
       "published_at": "2026-06-02T17:43:03-04:00",
       "source_updated_at": "2026-11-03T10:14:43-05:00",
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -127,7 +127,7 @@
       "first_seen": "2026-11-12",
       "published_at": "2026-10-27T09:29:57-04:00",
       "source_updated_at": "2026-10-30T16:15:12-05:00",
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -169,7 +169,7 @@
       "first_seen": "2026-11-12",
       "published_at": "2026-10-09T15:25:16-04:00",
       "source_updated_at": "2026-10-30T16:15:12-05:00",
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -213,7 +213,7 @@
       "first_seen": "2026-11-13",
       "published_at": "2026-11-12T18:15:54-05:00",
       "source_updated_at": "2026-11-12T17:15:54-06:00",
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -254,7 +254,7 @@
       "first_seen": "2026-11-19",
       "published_at": "2026-10-16T19:59:06-04:00",
       "source_updated_at": null,
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -298,7 +298,7 @@
       "first_seen": "2026-11-20",
       "published_at": null,
       "source_updated_at": null,
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -521,7 +521,7 @@
       "first_seen": "2026-10-31",
       "published_at": "2026-10-16T14:47:28-04:00",
       "source_updated_at": null,
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -560,7 +560,7 @@
       "first_seen": "2026-10-30",
       "published_at": null,
       "source_updated_at": null,
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -608,7 +608,7 @@
       "first_seen": "2026-11-13",
       "published_at": "2026-11-10T10:55:17-05:00",
       "source_updated_at": "2026-11-10T09:55:17-06:00",
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -658,7 +658,7 @@
       "first_seen": "2026-11-14",
       "published_at": null,
       "source_updated_at": null,
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -706,7 +706,7 @@
       "first_seen": "2026-11-20",
       "published_at": null,
       "source_updated_at": null,
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
@@ -750,13 +750,55 @@
       "first_seen": "2026-11-22",
       "published_at": "2026-11-21T19:53:59-05:00",
       "source_updated_at": "2026-11-21T19:53:59-05:00",
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
       "fresh_72h": false,
       "sources": [
         {
           "name": "Oddball direct Greenhouse",
           "url": "https://job-boards.greenhouse.io/oddball/jobs/8213812003"
+        }
+      ]
+    },
+    {
+      "id": "fccd57034e21503e",
+      "company": "Smartsheet",
+      "title": "Software Engineer II, AI Experience (Remote Eligible)",
+      "role": "Software engineering",
+      "employer_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232",
+      "application_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232",
+      "requisition_id": "8412232",
+      "arrangement": "Remote USA; telework from registered US locations, no Illinois exclusion stated. Confirm state registration during application.",
+      "workplace": "Remote",
+      "salary": "$125,000–$175,000",
+      "salary_scope": "Annual USD base applicable to Illinois; individual offer depends on experience/location.",
+      "evidence": [
+        "2-4years and TypeScript/React directly align with Ender tenure/production stack.",
+        "User-facing full-stack features, APIs, diagnostics/tracing and QA/product collaboration connect directly.",
+        "Confirmed LLM chat/document integration is relevant but duration and methods are unknown."
+      ],
+      "transferable": [
+        "Production Java backend/API experience transfers to other backend languages; Python/Node professional proficiency is not established."
+      ],
+      "gaps": [
+        "Requires1+yearproductionLLM features; duration and individual implementation specifics unconfirmed.",
+        "Eval scorers/golden datasets, MCP/tools/skills and agent failure design required but not evidenced.",
+        "Databricks/equivalent and production agent observability depth unknown."
+      ],
+      "responsibilities": [
+        "Own significant feature from design to production; ambiguous asks and quality/cost/security decisions.",
+        "On-call first90days; shared production incidents, no explicit management/mentoring."
+      ],
+      "first_seen": "2026-11-24",
+      "published_at": "2026-11-23T14:38:33-05:00",
+      "source_updated_at": "2026-11-23T14:38:33-05:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
+      "new_to_search": false,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Smartsheet direct Greenhouse",
+          "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232"
         }
       ]
     },
@@ -792,13 +834,104 @@
       "first_seen": "2026-11-25",
       "published_at": "2026-11-24T22:59:41-05:00",
       "source_updated_at": "2026-11-24T22:59:41-05:00",
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
       "new_to_search": false,
-      "fresh_72h": true,
+      "fresh_72h": false,
       "sources": [
         {
           "name": "Oddball direct Greenhouse",
           "url": "https://job-boards.greenhouse.io/oddball/jobs/8216752003"
+        }
+      ]
+    },
+    {
+      "id": "4051dae5bb81c4be",
+      "company": "Runpod",
+      "title": "Software Engineer (Full-Stack) - Multiple Levels",
+      "role": "Full-stack",
+      "employer_url": "https://jobs.ashbyhq.com/runpod/d7c53f7a-ce66-4ecb-91f6-75b1565d4d62",
+      "application_url": "https://jobs.ashbyhq.com/runpod/d7c53f7a-ce66-4ecb-91f6-75b1565d4d62/application",
+      "requisition_id": "d7c53f7a-ce66-4ecb-91f6-75b1565d4d62",
+      "arrangement": "United States remote; Illinois not excluded.",
+      "workplace": "Remote",
+      "salary": "$130,000–$200,000",
+      "salary_scope": "Employer annual US base range across multiple career levels; narrowed by level, qualifications and location. Equity separate.",
+      "evidence": [
+        "Production React/TypeScript and API/database work at Ender directly support frontend interfaces and platform features.",
+        "API tracing tool, test-data generator, testing and CI/CD connect to debugging, SDK usability and code quality.",
+        "Works alongside experienced engineers with mentorship and learning; TypeScript satisfies the Go and/or TypeScript wording."
+      ],
+      "transferable": [
+        "Java services, API integrations and testing foundations transfer to unfamiliar backend/test frameworks; professional Python proficiency is not established."
+      ],
+      "gaps": [
+        "Backend Express/FastAPI/Pydantic production depth and Python implementation proficiency not established; Java backend is transferable rather than equivalent experience.",
+        "Cloud/distributed/Docker exposure preferred, actual production depth unconfirmed.",
+        "Multi-level salary range will narrow after leveling; do not assume top of range."
+      ],
+      "responsibilities": [
+        "Contribute features, APIs, SDK improvements and bug fixes with experienced-engineer support.",
+        "No fixed years requirement, formal mentoring of others, on-call cadence or travel requirement stated in posting. Company careers mentions offsites/gatherings.",
+        "Background check required; US work authorization satisfied."
+      ],
+      "first_seen": "2026-11-28",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
+      "new_to_search": true,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "Built In",
+          "url": "https://builtin.com/job/software-engineer-full-stack-multiple-levels/12486535"
+        },
+        {
+          "name": "Runpod official careers",
+          "url": "https://www.runpod.io/careers"
+        }
+      ]
+    },
+    {
+      "id": "69488a3e2e6354b3",
+      "company": "Exa",
+      "title": "Support Engineer, PAYGO",
+      "role": "Software engineering",
+      "employer_url": "https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c",
+      "application_url": "https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c/application",
+      "requisition_id": "f4dd7ae8-cf72-4634-b708-742601b9061c",
+      "arrangement": "United States remote; Illinois not excluded.",
+      "workplace": "Remote",
+      "salary": "Salary needs clarification",
+      "salary_scope": "Employer states OTE $115,000–$225,000 plus equity. Base/variable split and individual offer unknown.",
+      "evidence": [
+        "Ender API request tracing/debugging, reproducing bugs and capturing complete reports closely match API troubleshooting and escalations.",
+        "QA/product collaboration and confirmed LLM customer-chat/document integration relate to AI-first support workflows.",
+        "Programming experience and early-career candidates welcomed; no fixed tenure threshold."
+      ],
+      "transferable": [],
+      "gaps": [
+        "This is a customer-facing support/GTM role, with billing questions and a high-volume ticket queue; less product implementation than core software roles.",
+        "Direct customer support queue ownership not established; clarify daily mix of coding versus support.",
+        "Published115–225k is OTE, not base; base and variable split unknown."
+      ],
+      "responsibilities": [
+        "Own inbound PAYGO queue, triage production problems, flag sales opportunities and improve docs/agent workflows.",
+        "Potential FDE/solutions-architect growth; hours, support shifts, on-call and travel unspecified."
+      ],
+      "first_seen": "2026-11-28",
+      "published_at": null,
+      "source_updated_at": null,
+      "employer_verified_at": "2026-11-28T15:02:29.943701+00:00",
+      "new_to_search": true,
+      "fresh_72h": false,
+      "sources": [
+        {
+          "name": "We Work Remotely",
+          "url": "https://weworkremotely.com/remote-jobs/exa-support-engineer-paygo"
+        },
+        {
+          "name": "Exa employer Ashby",
+          "url": "https://jobs.ashbyhq.com/exa/f4dd7ae8-cf72-4634-b708-742601b9061c"
         }
       ]
     },
@@ -835,7 +968,7 @@
       "published_at": "2026-08-26T11:24:47-04:00",
       "source_updated_at": "2026-11-10T13:05:47-05:00",
       "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
-      "new_to_search": true,
+      "new_to_search": false,
       "fresh_72h": false,
       "sources": [
         {
@@ -888,48 +1021,6 @@
         {
           "name": "EchoJobs",
           "url": "https://echojobs.io/job/imanage-software-engineer-test-automation-qjrld"
-        }
-      ]
-    },
-    {
-      "id": "fccd57034e21503e",
-      "company": "Smartsheet",
-      "title": "Software Engineer II, AI Experience (Remote Eligible)",
-      "role": "Software engineering",
-      "employer_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232",
-      "application_url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232",
-      "requisition_id": "8412232",
-      "arrangement": "Remote USA; telework from registered US locations, no Illinois exclusion stated. Confirm state registration during application.",
-      "workplace": "Remote",
-      "salary": "$125,000–$175,000",
-      "salary_scope": "Annual USD base applicable to Illinois; individual offer depends on experience/location.",
-      "evidence": [
-        "2-4years and TypeScript/React directly align with Ender tenure/production stack.",
-        "User-facing full-stack features, APIs, diagnostics/tracing and QA/product collaboration connect directly.",
-        "Confirmed LLM chat/document integration is relevant but duration and methods are unknown."
-      ],
-      "transferable": [
-        "Production Java backend/API experience transfers to other backend languages; Python/Node professional proficiency is not established."
-      ],
-      "gaps": [
-        "Requires1+yearproductionLLM features; duration and individual implementation specifics unconfirmed.",
-        "Eval scorers/golden datasets, MCP/tools/skills and agent failure design required but not evidenced.",
-        "Databricks/equivalent and production agent observability depth unknown."
-      ],
-      "responsibilities": [
-        "Own significant feature from design to production; ambiguous asks and quality/cost/security decisions.",
-        "On-call first90days; shared production incidents, no explicit management/mentoring."
-      ],
-      "first_seen": "2026-11-24",
-      "published_at": "2026-11-23T14:38:33-05:00",
-      "source_updated_at": "2026-11-23T14:38:33-05:00",
-      "employer_verified_at": "2026-11-24T15:08:12.941708+00:00",
-      "new_to_search": false,
-      "fresh_72h": false,
-      "sources": [
-        {
-          "name": "Smartsheet direct Greenhouse",
-          "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232"
         }
       ]
     },
@@ -1021,391 +1112,300 @@
           "url": "https://jobicy.com/jobs/155861-software-engineer-growth"
         }
       ]
-    },
-    {
-      "id": "b58260e85ef61b88",
-      "company": "McKesson / Ontada Genospace",
-      "title": "Full Stack Software Engineer",
-      "role": "Full-stack",
-      "employer_url": "https://careers.mckesson.com/en/job/ohio/full-stack-software-engineer/733/98133520720",
-      "application_url": "https://himalayas.app/companies/mckesson/jobs/full-stack-software-engineer?utm_source=api",
-      "requisition_id": "JR0150756",
-      "arrangement": "EmployerexplicitRemote andstructureddataTELECOMMUTEwithapplicantcountryUnitedStates. NamedlocationsincludeWorkatHomeOhio,Atlanta,Columbus,Irving,Richmond,TheWoodlands. Illinoisnotexplicitlylisted; confirmstateeligibility beforeapplication. Noofficecadence/travelstated.",
-      "workplace": "Remote",
-      "salary": "$83,400–$139,000",
-      "salary_scope": "Employerbase range; geographicallylocalized, exactIllinoisoffer unspecified. No universal85kfloorapplied.",
-      "evidence": [
-        "Approximately2years9monthsEnderexperience meets2+yearsminimum",
-        "Java/REST/databaseintegrations andReactTypeScriptfullstackfeatures meet frontend/backend/database requirements",
-        "Tests, CI/CD, code/designreview andQA/productcollaborationmatch smallteam design/build/test/release/supportscope",
-        "AerospaceBachelorofEngineering satisfiesengineering/STEMdegree alternative"
-      ],
-      "transferable": [
-        "Reactcomponent experience transfers toVue frontend; exactstackfamiliarity is preferred ratherthanmandatory",
-        "Relationaldata/Java work supports learningGroovy/Grails/Micronaut/Kafka andMongoDB/Elasticsearch; noexpertiseclaimed"
-      ],
-      "gaps": [
-        "Vue,Groovy,Grails,Micronaut,Kafka,MongoDB andElasticsearchdepthnotestablished; employer marksstackfamiliarityhelpfulnotrequired",
-        "Illinoisremoteeligibility needsconfirmationgiven namedstateworklocations",
-        "Salaryoffer and exactcompensationbyIllinoisunknown; clinical/genomicsdomainexperiencepreferrednotrequired"
-      ],
-      "responsibilities": [
-        "Smallcollaborativeteam, code/designfeedback andengineeringprocessimprovements",
-        "Fullfeaturecycleincludingrelease/support; noexplicitoncall,leadershipormentoringobligation",
-        "Healthcarecontext, noadditionalcomplianceexpertiseclaimed"
-      ],
-      "first_seen": "2026-11-13",
-      "published_at": "2026-11-11",
-      "source_updated_at": 1794567475,
-      "employer_verified_at": "2026-11-13T15:10:48.876903+00:00",
-      "new_to_search": false,
-      "fresh_72h": false,
-      "sources": [
-        {
-          "name": "Himalayas",
-          "url": "https://himalayas.app/companies/mckesson/jobs/full-stack-software-engineer"
-        },
-        {
-          "name": "Employer careers",
-          "url": "https://careers.mckesson.com/en/job/ohio/full-stack-software-engineer/733/98133520720"
-        }
-      ]
-    },
-    {
-      "id": "fdb863354fe365c5",
-      "company": "CoinTracker",
-      "title": "Product Engineer, Nino",
-      "role": "Full-stack",
-      "employer_url": "https://jobs.ashbyhq.com/cointracker/fa2bfa0d-b887-4a6f-bb51-8b4997748ae1",
-      "application_url": "https://jobicy.com/jobs/163092-product-engineer-nino",
-      "requisition_id": "fa2bfa0d-b887-4a6f-bb51-8b4997748ae1",
-      "arrangement": "Remote United States or Canada; full time. Illinois not excluded, but exact state employment eligibility, travel and any in-person expectations are not detailed.",
-      "workplace": "Remote",
-      "salary": "$140,250–$207,775",
-      "salary_scope": "Employer starting salary range in USD; location does not change posted range; actual offer based on skills, education and experience. Equity and benefits additional.",
-      "evidence": [
-        "Ender React/TypeScript product features, Java APIs and integrations demonstrate work across interface and backend.",
-        "Identified QA/product bug-reporting problem and built API tracing tool, matching user-problem discovery and useful product delivery.",
-        "Relational test-data tooling, diagnostics and automated tests support correctness and reliable workflows."
-      ],
-      "transferable": [
-        "Financial-domain and agent-product work are new domains; employer explicitly says prior finance, AI/ML or exact-stack experience is not required."
-      ],
-      "gaps": [
-        "Design ownership and independent customer discovery depth should be demonstrated with concrete examples.",
-        "Illinois employment eligibility and office/travel cadence need clarification."
-      ],
-      "responsibilities": [
-        "Small early product team; high ownership from customer discovery and design through launch.",
-        "Build financial workflows, integrations and agent interfaces requiring careful correctness.",
-        "No formal years minimum, management, mentoring others or on-call requirement stated."
-      ],
-      "first_seen": "2026-11-18",
-      "published_at": null,
-      "source_updated_at": null,
-      "employer_verified_at": "2026-11-27T15:06:43.463620+00:00",
-      "new_to_search": false,
-      "fresh_72h": false,
-      "sources": [
-        {
-          "name": "Jobicy",
-          "url": "https://jobicy.com/jobs/163092-product-engineer-nino"
-        }
-      ]
     }
   ],
-  "qualifying_count": 43,
+  "qualifying_count": 45,
   "sources": [
     {
       "name": "We Work Remotely",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 25,
       "error": null,
       "baseline": false
     },
     {
       "name": "Himalayas",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 200,
       "error": null,
       "baseline": false
     },
     {
       "name": "Jobicy",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
-      "count": 142,
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
+      "count": 145,
       "error": null,
       "baseline": false
     },
     {
       "name": "Remotive",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
-      "count": 17,
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
+      "count": 16,
       "error": null,
       "baseline": false
     },
     {
       "name": "Working Nomads",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 36,
       "error": null,
       "baseline": false
     },
     {
       "name": "Remote OK",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 100,
       "error": null,
       "baseline": false
     },
     {
       "name": "Hacker News Who is hiring",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 488,
       "error": null,
       "baseline": false
     },
     {
       "name": "Affirm direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 218,
       "error": null,
       "baseline": false
     },
     {
       "name": "Supermove direct Lever",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 5,
       "error": null,
       "baseline": false
     },
     {
       "name": "Reddit direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 149,
       "error": null,
       "baseline": false
     },
     {
       "name": "Recidiviz direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 10,
       "error": null,
       "baseline": false
     },
     {
       "name": "Mercury direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
-      "count": 68,
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
+      "count": 67,
       "error": null,
       "baseline": false
     },
     {
       "name": "Smartsheet direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 79,
       "error": null,
       "baseline": false
     },
     {
       "name": "Ellevation direct Lever",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 5,
       "error": null,
       "baseline": false
     },
     {
       "name": "Braze direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
-      "count": 351,
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
+      "count": 357,
       "error": null,
       "baseline": false
     },
     {
       "name": "GOAT Group direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 13,
       "error": null,
       "baseline": false
     },
     {
       "name": "Omada Health direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 27,
       "error": null,
       "baseline": false
     },
     {
       "name": "PlanetScale direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 7,
       "error": null,
       "baseline": false
     },
     {
       "name": "Metabase direct Lever",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 21,
       "error": null,
       "baseline": false
     },
     {
       "name": "GiveCampus direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 14,
       "error": null,
       "baseline": false
     },
     {
       "name": "Sphinx Defense direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 18,
       "error": null,
       "baseline": false
     },
     {
       "name": "Zwift direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 10,
       "error": null,
       "baseline": false
     },
     {
       "name": "Engine direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 70,
       "error": null,
       "baseline": false
     },
     {
       "name": "RainFocus direct Lever",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 13,
       "error": null,
       "baseline": false
     },
     {
       "name": "LogicGate direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 9,
       "error": null,
       "baseline": false
     },
     {
       "name": "Oddball direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 22,
       "error": null,
       "baseline": false
     },
     {
       "name": "Posit direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 4,
       "error": null,
       "baseline": false
     },
     {
       "name": "GHX direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 33,
       "error": null,
       "baseline": false
     },
     {
       "name": "Fleetio direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 19,
       "error": null,
       "baseline": false
     },
     {
       "name": "GitLab direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
-      "count": 243,
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
+      "count": 244,
       "error": null,
       "baseline": false
     },
     {
       "name": "Automox direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 3,
       "error": null,
       "baseline": false
     },
     {
       "name": "Liftoff direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 23,
       "error": null,
       "baseline": false
     },
     {
       "name": "Edmentum direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 38,
       "error": null,
       "baseline": false
     },
     {
       "name": "GoodLeap direct Lever",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 24,
       "error": null,
       "baseline": false
     },
     {
       "name": "Rewards Network direct Greenhouse",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 49,
       "error": null,
       "baseline": false
     },
     {
       "name": "Rula direct Ashby",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 35,
       "error": null,
       "baseline": false
     },
     {
       "name": "Roboflow direct Ashby",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 38,
       "error": null,
       "baseline": false
     },
     {
       "name": "Talkiatry direct Ashby",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 182,
       "error": null,
       "baseline": false
     },
     {
       "name": "CoinTracker direct Ashby",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 3,
       "error": null,
       "baseline": false
     },
     {
       "name": "1Password direct Ashby",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
-      "count": 77,
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
+      "count": 79,
       "error": null,
       "baseline": false
     },
     {
       "name": "Bayesian Health direct Ashby",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 8,
       "error": null,
       "baseline": false
     },
     {
       "name": "Resend direct Ashby",
-      "checked_at": "2026-11-27T15:01:15.981358+00:00",
+      "checked_at": "2026-11-28T14:59:00.968071+00:00",
       "count": 11,
       "error": null,
       "baseline": false
@@ -1717,187 +1717,187 @@
     {
       "name": "TypeScript Jobs",
       "url": "https://typescriptjobs.net/",
-      "checked_on": "2026-11-27",
-      "finding": "Public board attempted; subsequent fetch timed out. No additional employer-verified match.",
-      "access_problem": "Follow-up web fetch timeout.",
+      "checked_on": "2026-11-28",
+      "finding": "27295roles,62newtoday: TCS Pune senior/lead, SigNozIndia growth, Zendesk language/consulting roles; no extra verified eligible role.",
+      "access_problem": null,
       "verified_matches": 0
     },
     {
       "name": "DevITJobs US",
       "url": "https://devitjobs.com/",
-      "checked_on": "2026-11-27",
-      "finding": "45 remote Java roles: staffing Spring/senior full-stack leads dominate; no unique closer verified role.",
+      "checked_on": "2026-11-28",
+      "finding": "45remoteJava category, staffingSpring/senior/lead inventory dominates; no unique verified closer fit.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
       "name": "EchoJobs",
       "url": "https://echojobs.io/",
-      "checked_on": "2026-11-27",
-      "finding": "Targeted Chicago II and remote junior React searches: Crafty duplicate; Softjourn is a talent pool with no specific project. No verified new opening.",
+      "checked_on": "2026-11-28",
+      "finding": "Targeted Chicagojunior React searches did not surface an additional verified primary opening.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
       "name": "HiringCafe",
       "url": "https://hiringcafe.com/",
-      "checked_on": "2026-11-27",
-      "finding": "121 application roles in Chicago inventory reviewed: electric-power application manager and senior developer listings; no unique primary verified fit.",
+      "checked_on": "2026-11-28",
+      "finding": "121remoteapplicationChicago inventory reviewed; electrical applicationmanager and senior developer roles, no new eligible primary verified.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
       "name": "Startup Jobs",
       "url": "https://startup.jobs/",
-      "checked_on": "2026-11-27",
-      "finding": "Latest public inventory: GitLab Zendesk requires experienced Ruby/Zendesk/Linux and advanced governance; other new roles foreign or managerial. Paid early access unused.",
+      "checked_on": "2026-11-28",
+      "finding": "Latest SailorHealth foundingNYhybrid, Solace senior repeat, foreign and nonengineering roles. General-interest GiveCampus not treated as new seat.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
       "name": "Wellfound",
       "url": "https://wellfound.com/jobs",
-      "checked_on": "2026-11-27",
-      "finding": "809 remote fullstack results, visible Rima repeats prior review; displayed2year card insufficient against detailed4+ requirements. No unique newly verified fit.",
+      "checked_on": "2026-11-28",
+      "finding": "Public fullstack inventory remains Rima and DiscoveredLabs; repeat previously evaluated roles. No unique newly verified fit.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
       "name": "YC Work at a Startup",
       "url": "https://www.workatastartup.com/",
-      "checked_on": "2026-11-27",
-      "finding": "TrueBiz new visible senior core role: strong Python/Django/Postgres and end-to-end AWS ownership required, beyond confirmed depth. Other visible research/founding roles not promoted.",
+      "checked_on": "2026-11-28",
+      "finding": "Current remote list reviewed; TrueBiz senior infra/Python ownership repeated, AIresearch and highownership roles. No new closer primary.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
       "name": "a16z portfolio jobs",
       "url": "https://jobs.a16z.com/",
-      "checked_on": "2026-11-27",
-      "finding": "18839 roles; Deel fullstack40–100k geographically broad card but primary returns empty dynamic shell. Not verified eligible or shortlisted.",
-      "access_problem": "Deel primary dynamic content unavailable.",
+      "checked_on": "2026-11-28",
+      "finding": "18847roles, latest ZiplineSrClientPlatformSF and TurquoiseSeniorSolutionsContracts, Apexembeddedcleared; no unique closer verified junior/mid match.",
+      "access_problem": null,
       "verified_matches": 0
     },
     {
       "name": "Built In Chicago engineering",
       "url": "https://www.builtinchicago.org/jobs/dev-engineering",
-      "checked_on": "2026-11-27",
-      "finding": "Public entry-level list: Cubs in-office baseball systems, Early Warning Java in-office, Nokia principal mislabeled entry. No new employer-verified suitable office cadence.",
+      "checked_on": "2026-11-28",
+      "finding": "Entry inventory reviewed; Runpod multilevel discovered yesterday and verified today on live employer board/detail. Other Chicago entry list repeats prior office/specialist roles.",
       "access_problem": null,
-      "verified_matches": 0
+      "verified_matches": 1
     },
     {
       "name": "Hyde Park Venture Partners",
       "url": "https://jobs.hydeparkvp.com/jobs",
-      "checked_on": "2026-11-27",
-      "finding": "532 roles: latest Dentologie front desk and LogicGate marketing. Bounded public inventory, no unique new software fit.",
+      "checked_on": "2026-11-28",
+      "finding": "529roles, latest LeapStoreManagerNY and DentologieFrontDeskChicago, no new software match in bounded inventory.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
-      "name": "Python.org Jobs",
-      "url": "https://www.python.org/jobs/",
-      "checked_on": "2026-11-27",
-      "finding": "Latest Nov19 image analysis, Nov15 research/ML and Nov6 seniorPython; no closer new junior/mid product opening.",
+      "name": "JavaScript Jobs, formerly JSRemotely",
+      "url": "https://javascript.jobs/remote",
+      "checked_on": "2026-11-28",
+      "finding": "Latest repeated MozillaSpiderMonkey staff, BeaconReactNative senior, Northbeamstaff. Older GitLabCanada and foreignroles; no new closer primary.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
-      "name": "Golangprojects",
-      "url": "https://www.golangprojects.com/",
-      "checked_on": "2026-11-27",
-      "finding": "Latest Buoyant7+Kubernetes and Salesforge5+Europe, older Prenosis/Airspace/Arango. No newly verified closer match.",
+      "name": "TryRemote, formerly ReactJobsBoard",
+      "url": "https://tryremote.com/",
+      "checked_on": "2026-11-28",
+      "finding": "Latest Doximity senior data, Curri manager, Temporalstaff, Northbeamstaff infra; Render general SWE lead remains unverified. No additional primary-qualified role.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
-      "name": "Fast Forward tech nonprofit jobs",
-      "url": "https://jobs.ffwd.org/jobs",
-      "checked_on": "2026-11-27",
-      "finding": "1503 public roles; latest ETH LISA-space research/software and Giga program/finance/clinical inventory, no additional eligible verified product role.",
+      "name": "Accel portfolio jobs",
+      "url": "https://jobs.accel.com/companies",
+      "checked_on": "2026-11-28",
+      "finding": "48888role public inventory initially readable, HudllegalChicago. Targeted junior Chicago search no closer role. Follow-up fetch failed; bounded partial coverage.",
+      "access_problem": "Follow-up Getro page fetch timeout.",
+      "verified_matches": 0
+    },
+    {
+      "name": "General Catalyst portfolio jobs",
+      "url": "https://jobs.generalcatalyst.com/companies",
+      "checked_on": "2026-11-28",
+      "finding": "26376roles, latest Neon deploymentsEurope. Targeted2year remote query includes Supermove applied duplicate, DoorDashDeveloperInsights aggregator and ZipRecruiterbigdata; no new employer-verified role.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
-      "name": "Drive Capital portfolio jobs",
-      "url": "https://jobs.drivecapital.com/companies",
-      "checked_on": "2026-11-27",
-      "finding": "1196 visible roles: Hopper Canada PM, Duolingo principal AI, Forge manufacturing IT/OT and Alpaca senior financial crimes. No closer new primary fit.",
+      "name": "Tech Jobs for Good",
+      "url": "https://techjobsforgood.com/",
+      "checked_on": "2026-11-28",
+      "finding": "85public roles: EDFdatadirector, FriendsFromCity senior frontend, GiftedSavingssenior fullstack and ReadWorksfundraising. Paid829inventory unused; no closer new verified role.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
-      "name": "Django community jobs",
-      "url": "https://www.djangoproject.com/community/jobs/",
-      "checked_on": "2026-11-27",
-      "finding": "Nov25 Ailytics backend: within2.5hours of Singapore and3+productionDjango/currentprimaryframework required. Geographic conflict and depth gap.",
+      "name": "JustRemote",
+      "url": "https://justremote.co/",
+      "checked_on": "2026-11-28",
+      "finding": "Latest AlpacaSecurity, KrakenSeniorAgentSystems and GitLabZendesk repeats specialized senior requirements; no extra verified fit.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
-      "name": "Code for America",
-      "url": "https://codeforamerica.org/jobs/",
-      "checked_on": "2026-11-27",
-      "finding": "Official11-job Greenhouse inventory: engineering manager/principal/staff and staff data/solutions. No junior/mid opening.",
+      "name": "Remote.co developer jobs",
+      "url": "https://remote.co/remote-jobs/developer",
+      "checked_on": "2026-11-28",
+      "finding": "Public cards read: DentsucommercearchitectCA, TexasStateTX, ArizonaPhoenixhybrid, HRIregionalNY and anonymous clientroles. No new unique employer-verified match.",
       "access_problem": null,
       "verified_matches": 0
     },
     {
       "name": "NoDesk",
       "url": "https://nodesk.co/remote-jobs/",
-      "checked_on": "2026-11-27",
-      "finding": "2842engineering roles; visible HopperCanada AI, ClickUpCanada, Sardine mobile/web SDK, senior security and staff positions. No new closer verified role.",
+      "checked_on": "2026-11-28",
+      "finding": "Vultr testautomation discovered and verified live employer requirements and Illinois eligibility. Other latest Coder senior deployed and HopperCanada not closer.",
       "access_problem": null,
-      "verified_matches": 0
+      "verified_matches": 1
     },
     {
-      "name": "Real Work From Anywhere",
-      "url": "https://www.realworkfromanywhere.com/",
-      "checked_on": "2026-11-27",
-      "finding": "Supabase Engineering Productivity strongly related work but7+years/platform/monorepo expertise. Other latest platform/security and senior roles; no extra fit.",
+      "name": "Hacker News Who is hiring",
+      "url": "https://hn.algolia.com/api",
+      "checked_on": "2026-11-28",
+      "finding": "Current and previous monthly software employer comments unchanged; no new/changed software employer comments.",
       "access_problem": null,
-      "verified_matches": 0
-    },
-    {
-      "name": "Edtech.com",
-      "url": "https://www.edtech.com/jobs",
-      "checked_on": "2026-11-27",
-      "finding": "Software category410 count and controls only; actual cards not returned. Extra attempted source not counted among8 accessible inventory reviews.",
-      "access_problem": "Dynamic job cards unavailable.",
       "verified_matches": 0
     },
     {
       "name": "r/typescript monthly hiring",
       "url": "https://www.reddit.com/r/typescript/comments/1wukscl/whos_hiring_typescript_developers_october/",
-      "checked_on": "2026-11-27",
-      "finding": "November same Australia startup and Bytamic Poland/German comments; October no employer bodies. No API collection.",
-      "access_problem": "Contest mode random ordering and cached public text prevent complete chronological review.",
-      "verified_matches": 0
-    },
-    {
-      "name": "Hacker News Who is hiring",
-      "url": "https://hn.algolia.com/api",
-      "checked_on": "2026-11-27",
-      "finding": "Current and previous monthly employer software comments all unchanged in collector. No new or changed software employer comment.",
-      "access_problem": null,
+      "checked_on": "2026-11-28",
+      "finding": "November same Australia and Poland/German two employer comments; October no employer bodies. No API.",
+      "access_problem": "Contest-mode random ordering and cached text prevent reliable full chronological coverage.",
       "verified_matches": 0
     },
     {
       "name": "Public remote feeds",
       "url": null,
-      "checked_on": "2026-11-27",
-      "finding": "72new and11changed events screened: BetterHelp and Grafana saved as older active roles. Fin requires3+shippedReactNative/Expo; TRM deepagentframeworks; OpenTrain part-time per-accepted-task evaluation not ordinary full-time engineering. Other new US leads mainly specialized infra/security/business apps or managers.",
+      "checked_on": "2026-11-28",
+      "finding": "48new9changed events: Exa verified as optional developer-support match. Quest requires3–5.NET/C#/SQLServer/Azure; Jamf5+; McGrawHill8+TSGo; SWIVEL7–8testing. Other leads geography/specialism conflicts; no title-only rejection.",
       "access_problem": null,
-      "verified_matches": 2
+      "verified_matches": 1
     },
     {
       "name": "Direct employer feeds",
       "url": null,
-      "checked_on": "2026-11-27",
-      "finding": "42/42 healthy. GitLab Zendesk requires advanced Ruby/domain expertise; Affirm seniorTrustInfra remains senior. TestInfra salary placeholders repaired but EastCoast/3+testing/Python/on-call restrictions remain. Existing unchanged exact matches reverified.",
+      "checked_on": "2026-11-28",
+      "finding": "42healthy; GiveCampus changed posts inspected, senior and general-interest pools not new open seats. Refreshed unchanged exact existing matches.",
       "access_problem": null,
+      "verified_matches": 0
+    },
+    {
+      "name": "Runpod primary research",
+      "url": null,
+      "checked_on": "2026-11-28",
+      "finding": "Live employer careers lists exact role and browser Ashby detail verifies requirements. Originalpubunknown; do not call aggregatorNov25 original publication.",
+      "access_problem": "Career raw HTTP403 and publicAPI403; browser primary verification successful.",
       "verified_matches": 0
     }
   ],
-  "last_source_review_date": "2026-11-27"
+  "last_source_review_date": "2026-11-28"
 }
